@@ -1,0 +1,90 @@
+sequential:
+row 1 is valid
+row 2 is valid
+row 3 is valid
+row 4 is valid
+row 5 is valid
+row 6 is valid
+row 7 is valid
+row 8 is valid
+row 9 is valid
+col 1 is valid
+col 2 is valid
+col 3 is valid
+col 4 is valid
+col 5 is valid
+col 6 is valid
+col 7 is valid
+col 8 is valid
+col 9 is valid
+grid 1 is valid
+grid 2 is valid
+grid 3 is valid
+grid 4 is valid
+grid 5 is valid
+grid 6 is valid
+grid 7 is valid
+grid 8 is valid
+grid 9 is valid
+Sudoku is valid
+Total time taken is 3.455
+chunk:
+Thread 1 checks row 1 and is valid
+Thread 1 checks row 2 and is valid
+Thread 1 checks row 3 and is valid
+Thread 2 checks row 4 and is valid
+Thread 2 checks row 5 and is valid
+Thread 2 checks row 6 and is valid
+Thread 3 checks row 7 and is valid
+Thread 3 checks row 8 and is valid
+Thread 3 checks row 9 and is valid
+Thread 4 checks col 1 and is valid
+Thread 4 checks col 2 and is valid
+Thread 4 checks col 3 and is valid
+Thread 5 checks col 4 and is valid
+Thread 5 checks col 5 and is valid
+Thread 5 checks col 6 and is valid
+Thread 6 checks col 7 and is valid
+Thread 6 checks col 8 and is valid
+Thread 6 checks col 9 and is valid
+Thread 7 checks grid 1 and is valid
+Thread 7 checks grid 2 and is valid
+Thread 7 checks grid 3 and is valid
+Thread 7 checks grid 4 and is valid
+Thread 7 checks grid 5 and is valid
+Thread 8 checks grid 6 and is valid
+Thread 8 checks grid 7 and is valid
+Thread 8 checks grid 8 and is valid
+Thread 8 checks grid 9 and is valid
+Sudoku is valid
+Total time taken is 155.527
+mixed:
+Thread 0 checks row 1 and is valid
+Thread 1 checks row 2 and is valid
+Thread 2 checks row 3 and is valid
+Thread 3 checks row 4 and is valid
+Thread 4 checks row 5 and is valid
+Thread 5 checks row 6 and is valid
+Thread 6 checks row 7 and is valid
+Thread 7 checks row 8 and is valid
+Thread 0 checks row 9 and is valid
+Thread 0 checks col 1 and is valid
+Thread 1 checks col 2 and is valid
+Thread 2 checks col 3 and is valid
+Thread 3 checks col 4 and is valid
+Thread 4 checks col 5 and is valid
+Thread 5 checks col 6 and is valid
+Thread 6 checks col 7 and is valid
+Thread 7 checks col 8 and is valid
+Thread 0 checks col 9 and is valid
+Thread 0 checks grid 1 and is valid
+Thread 1 checks grid 2 and is valid
+Thread 2 checks grid 3 and is valid
+Thread 3 checks grid 4 and is valid
+Thread 4 checks grid 5 and is valid
+Thread 5 checks grid 6 and is valid
+Thread 6 checks grid 7 and is valid
+Thread 7 checks grid 8 and is valid
+Thread 0 checks grid 9 and is valid
+Sudoku is valid
+Total time taken is 105.361

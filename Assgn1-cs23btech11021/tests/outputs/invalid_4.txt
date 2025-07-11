@@ -1,0 +1,45 @@
+sequential:
+row 1 is invalid
+row 2 is invalid
+row 3 is invalid
+row 4 is invalid
+col 1 is valid
+col 2 is invalid
+col 3 is invalid
+col 4 is invalid
+grid 1 is invalid
+grid 2 is invalid
+grid 3 is invalid
+grid 4 is valid
+Sudoku is invalid
+Total time taken is 1.857
+chunk:
+Thread 1 checks row 1 and is invalid
+Thread 1 checks row 2 and is invalid
+Thread 2 checks row 3 and is invalid
+Thread 2 checks row 4 and is invalid
+Thread 4 checks col 1 and is valid
+Thread 4 checks col 2 and is invalid
+Thread 5 checks col 3 and is invalid
+Thread 5 checks col 4 and is invalid
+Thread 7 checks grid 1 and is invalid
+Thread 7 checks grid 2 and is invalid
+Thread 8 checks grid 3 and is invalid
+Thread 8 checks grid 4 and is valid
+Sudoku is invalid
+Total time taken is 169.506
+mixed:
+Thread 0 checks row 1 and is invalid
+Thread 1 checks row 2 and is invalid
+Thread 2 checks row 3 and is invalid
+Thread 3 checks row 4 and is invalid
+Thread 0 checks col 1 and is valid
+Thread 1 checks col 2 and is invalid
+Thread 2 checks col 3 and is invalid
+Thread 3 checks col 4 and is invalid
+Thread 0 checks grid 1 and is invalid
+Thread 1 checks grid 2 and is invalid
+Thread 2 checks grid 3 and is invalid
+Thread 3 checks grid 4 and is valid
+Sudoku is invalid
+Total time taken is 123.962

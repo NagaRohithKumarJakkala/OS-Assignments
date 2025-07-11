@@ -1,0 +1,2925 @@
+sequential:
+row 1 is invalid
+row 2 is invalid
+row 3 is invalid
+row 4 is invalid
+row 5 is invalid
+row 6 is invalid
+row 7 is invalid
+row 8 is invalid
+row 9 is invalid
+row 10 is invalid
+row 11 is invalid
+row 12 is invalid
+row 13 is invalid
+row 14 is invalid
+row 15 is invalid
+row 16 is invalid
+row 17 is invalid
+row 18 is invalid
+row 19 is invalid
+row 20 is invalid
+row 21 is invalid
+row 22 is invalid
+row 23 is invalid
+row 24 is invalid
+row 25 is invalid
+row 26 is invalid
+row 27 is invalid
+row 28 is invalid
+row 29 is invalid
+row 30 is invalid
+row 31 is invalid
+row 32 is invalid
+row 33 is invalid
+row 34 is invalid
+row 35 is invalid
+row 36 is invalid
+row 37 is invalid
+row 38 is invalid
+row 39 is invalid
+row 40 is invalid
+row 41 is invalid
+row 42 is invalid
+row 43 is invalid
+row 44 is invalid
+row 45 is invalid
+row 46 is invalid
+row 47 is invalid
+row 48 is invalid
+row 49 is invalid
+row 50 is invalid
+row 51 is invalid
+row 52 is invalid
+row 53 is invalid
+row 54 is invalid
+row 55 is invalid
+row 56 is invalid
+row 57 is invalid
+row 58 is invalid
+row 59 is invalid
+row 60 is invalid
+row 61 is invalid
+row 62 is invalid
+row 63 is invalid
+row 64 is invalid
+row 65 is invalid
+row 66 is invalid
+row 67 is invalid
+row 68 is invalid
+row 69 is invalid
+row 70 is invalid
+row 71 is invalid
+row 72 is invalid
+row 73 is invalid
+row 74 is invalid
+row 75 is invalid
+row 76 is invalid
+row 77 is invalid
+row 78 is invalid
+row 79 is invalid
+row 80 is invalid
+row 81 is invalid
+row 82 is invalid
+row 83 is invalid
+row 84 is invalid
+row 85 is invalid
+row 86 is invalid
+row 87 is invalid
+row 88 is invalid
+row 89 is invalid
+row 90 is invalid
+row 91 is invalid
+row 92 is invalid
+row 93 is invalid
+row 94 is invalid
+row 95 is invalid
+row 96 is invalid
+row 97 is invalid
+row 98 is invalid
+row 99 is invalid
+row 100 is invalid
+row 101 is invalid
+row 102 is invalid
+row 103 is invalid
+row 104 is invalid
+row 105 is invalid
+row 106 is invalid
+row 107 is invalid
+row 108 is invalid
+row 109 is invalid
+row 110 is invalid
+row 111 is invalid
+row 112 is invalid
+row 113 is invalid
+row 114 is invalid
+row 115 is invalid
+row 116 is invalid
+row 117 is invalid
+row 118 is invalid
+row 119 is invalid
+row 120 is invalid
+row 121 is invalid
+row 122 is invalid
+row 123 is invalid
+row 124 is invalid
+row 125 is invalid
+row 126 is invalid
+row 127 is invalid
+row 128 is invalid
+row 129 is invalid
+row 130 is invalid
+row 131 is invalid
+row 132 is invalid
+row 133 is invalid
+row 134 is invalid
+row 135 is invalid
+row 136 is invalid
+row 137 is invalid
+row 138 is invalid
+row 139 is invalid
+row 140 is invalid
+row 141 is invalid
+row 142 is invalid
+row 143 is invalid
+row 144 is invalid
+row 145 is invalid
+row 146 is invalid
+row 147 is invalid
+row 148 is invalid
+row 149 is invalid
+row 150 is invalid
+row 151 is invalid
+row 152 is invalid
+row 153 is invalid
+row 154 is invalid
+row 155 is invalid
+row 156 is invalid
+row 157 is invalid
+row 158 is invalid
+row 159 is invalid
+row 160 is invalid
+row 161 is invalid
+row 162 is invalid
+row 163 is invalid
+row 164 is invalid
+row 165 is invalid
+row 166 is invalid
+row 167 is invalid
+row 168 is invalid
+row 169 is invalid
+row 170 is invalid
+row 171 is invalid
+row 172 is invalid
+row 173 is invalid
+row 174 is invalid
+row 175 is invalid
+row 176 is invalid
+row 177 is invalid
+row 178 is invalid
+row 179 is invalid
+row 180 is invalid
+row 181 is invalid
+row 182 is invalid
+row 183 is invalid
+row 184 is invalid
+row 185 is invalid
+row 186 is invalid
+row 187 is invalid
+row 188 is invalid
+row 189 is invalid
+row 190 is invalid
+row 191 is invalid
+row 192 is invalid
+row 193 is invalid
+row 194 is invalid
+row 195 is invalid
+row 196 is invalid
+row 197 is invalid
+row 198 is invalid
+row 199 is invalid
+row 200 is invalid
+row 201 is invalid
+row 202 is invalid
+row 203 is invalid
+row 204 is invalid
+row 205 is invalid
+row 206 is invalid
+row 207 is invalid
+row 208 is invalid
+row 209 is invalid
+row 210 is invalid
+row 211 is invalid
+row 212 is invalid
+row 213 is invalid
+row 214 is invalid
+row 215 is invalid
+row 216 is invalid
+row 217 is invalid
+row 218 is invalid
+row 219 is invalid
+row 220 is invalid
+row 221 is invalid
+row 222 is invalid
+row 223 is invalid
+row 224 is invalid
+row 225 is invalid
+row 226 is invalid
+row 227 is invalid
+row 228 is invalid
+row 229 is invalid
+row 230 is invalid
+row 231 is invalid
+row 232 is invalid
+row 233 is invalid
+row 234 is invalid
+row 235 is invalid
+row 236 is invalid
+row 237 is invalid
+row 238 is invalid
+row 239 is invalid
+row 240 is invalid
+row 241 is invalid
+row 242 is invalid
+row 243 is invalid
+row 244 is invalid
+row 245 is invalid
+row 246 is invalid
+row 247 is invalid
+row 248 is invalid
+row 249 is invalid
+row 250 is invalid
+row 251 is invalid
+row 252 is invalid
+row 253 is invalid
+row 254 is invalid
+row 255 is invalid
+row 256 is invalid
+row 257 is invalid
+row 258 is invalid
+row 259 is invalid
+row 260 is invalid
+row 261 is invalid
+row 262 is invalid
+row 263 is invalid
+row 264 is invalid
+row 265 is invalid
+row 266 is invalid
+row 267 is invalid
+row 268 is invalid
+row 269 is invalid
+row 270 is invalid
+row 271 is invalid
+row 272 is invalid
+row 273 is invalid
+row 274 is invalid
+row 275 is invalid
+row 276 is invalid
+row 277 is invalid
+row 278 is invalid
+row 279 is invalid
+row 280 is invalid
+row 281 is invalid
+row 282 is invalid
+row 283 is invalid
+row 284 is invalid
+row 285 is invalid
+row 286 is invalid
+row 287 is invalid
+row 288 is invalid
+row 289 is invalid
+row 290 is invalid
+row 291 is invalid
+row 292 is invalid
+row 293 is invalid
+row 294 is invalid
+row 295 is invalid
+row 296 is invalid
+row 297 is invalid
+row 298 is invalid
+row 299 is invalid
+row 300 is invalid
+row 301 is invalid
+row 302 is invalid
+row 303 is invalid
+row 304 is invalid
+row 305 is invalid
+row 306 is invalid
+row 307 is invalid
+row 308 is invalid
+row 309 is invalid
+row 310 is invalid
+row 311 is invalid
+row 312 is invalid
+row 313 is invalid
+row 314 is invalid
+row 315 is invalid
+row 316 is invalid
+row 317 is invalid
+row 318 is invalid
+row 319 is invalid
+row 320 is invalid
+row 321 is invalid
+row 322 is invalid
+row 323 is invalid
+row 324 is invalid
+col 1 is invalid
+col 2 is invalid
+col 3 is invalid
+col 4 is invalid
+col 5 is invalid
+col 6 is invalid
+col 7 is invalid
+col 8 is invalid
+col 9 is invalid
+col 10 is invalid
+col 11 is invalid
+col 12 is invalid
+col 13 is invalid
+col 14 is invalid
+col 15 is invalid
+col 16 is invalid
+col 17 is invalid
+col 18 is invalid
+col 19 is invalid
+col 20 is invalid
+col 21 is invalid
+col 22 is invalid
+col 23 is invalid
+col 24 is invalid
+col 25 is invalid
+col 26 is invalid
+col 27 is invalid
+col 28 is invalid
+col 29 is invalid
+col 30 is invalid
+col 31 is invalid
+col 32 is invalid
+col 33 is invalid
+col 34 is invalid
+col 35 is invalid
+col 36 is invalid
+col 37 is invalid
+col 38 is invalid
+col 39 is invalid
+col 40 is invalid
+col 41 is invalid
+col 42 is invalid
+col 43 is invalid
+col 44 is invalid
+col 45 is invalid
+col 46 is invalid
+col 47 is invalid
+col 48 is invalid
+col 49 is invalid
+col 50 is invalid
+col 51 is invalid
+col 52 is invalid
+col 53 is invalid
+col 54 is invalid
+col 55 is invalid
+col 56 is invalid
+col 57 is invalid
+col 58 is invalid
+col 59 is invalid
+col 60 is invalid
+col 61 is invalid
+col 62 is invalid
+col 63 is invalid
+col 64 is invalid
+col 65 is invalid
+col 66 is invalid
+col 67 is invalid
+col 68 is invalid
+col 69 is invalid
+col 70 is invalid
+col 71 is invalid
+col 72 is invalid
+col 73 is invalid
+col 74 is invalid
+col 75 is invalid
+col 76 is invalid
+col 77 is invalid
+col 78 is invalid
+col 79 is invalid
+col 80 is invalid
+col 81 is invalid
+col 82 is invalid
+col 83 is invalid
+col 84 is invalid
+col 85 is invalid
+col 86 is invalid
+col 87 is invalid
+col 88 is invalid
+col 89 is invalid
+col 90 is invalid
+col 91 is invalid
+col 92 is invalid
+col 93 is invalid
+col 94 is invalid
+col 95 is invalid
+col 96 is invalid
+col 97 is invalid
+col 98 is invalid
+col 99 is invalid
+col 100 is invalid
+col 101 is invalid
+col 102 is invalid
+col 103 is invalid
+col 104 is invalid
+col 105 is invalid
+col 106 is invalid
+col 107 is invalid
+col 108 is invalid
+col 109 is invalid
+col 110 is invalid
+col 111 is invalid
+col 112 is invalid
+col 113 is invalid
+col 114 is invalid
+col 115 is invalid
+col 116 is invalid
+col 117 is invalid
+col 118 is invalid
+col 119 is invalid
+col 120 is invalid
+col 121 is invalid
+col 122 is invalid
+col 123 is invalid
+col 124 is invalid
+col 125 is invalid
+col 126 is invalid
+col 127 is invalid
+col 128 is invalid
+col 129 is invalid
+col 130 is invalid
+col 131 is invalid
+col 132 is invalid
+col 133 is invalid
+col 134 is invalid
+col 135 is invalid
+col 136 is invalid
+col 137 is invalid
+col 138 is invalid
+col 139 is invalid
+col 140 is invalid
+col 141 is invalid
+col 142 is invalid
+col 143 is invalid
+col 144 is invalid
+col 145 is invalid
+col 146 is invalid
+col 147 is invalid
+col 148 is invalid
+col 149 is invalid
+col 150 is invalid
+col 151 is invalid
+col 152 is invalid
+col 153 is invalid
+col 154 is invalid
+col 155 is invalid
+col 156 is invalid
+col 157 is invalid
+col 158 is invalid
+col 159 is invalid
+col 160 is invalid
+col 161 is invalid
+col 162 is invalid
+col 163 is invalid
+col 164 is invalid
+col 165 is invalid
+col 166 is invalid
+col 167 is invalid
+col 168 is invalid
+col 169 is invalid
+col 170 is invalid
+col 171 is invalid
+col 172 is invalid
+col 173 is invalid
+col 174 is invalid
+col 175 is invalid
+col 176 is invalid
+col 177 is invalid
+col 178 is invalid
+col 179 is invalid
+col 180 is invalid
+col 181 is invalid
+col 182 is invalid
+col 183 is invalid
+col 184 is invalid
+col 185 is invalid
+col 186 is invalid
+col 187 is invalid
+col 188 is invalid
+col 189 is invalid
+col 190 is invalid
+col 191 is invalid
+col 192 is invalid
+col 193 is invalid
+col 194 is invalid
+col 195 is invalid
+col 196 is invalid
+col 197 is invalid
+col 198 is invalid
+col 199 is invalid
+col 200 is invalid
+col 201 is invalid
+col 202 is invalid
+col 203 is invalid
+col 204 is invalid
+col 205 is invalid
+col 206 is invalid
+col 207 is invalid
+col 208 is invalid
+col 209 is invalid
+col 210 is invalid
+col 211 is invalid
+col 212 is invalid
+col 213 is invalid
+col 214 is invalid
+col 215 is invalid
+col 216 is invalid
+col 217 is invalid
+col 218 is invalid
+col 219 is invalid
+col 220 is invalid
+col 221 is invalid
+col 222 is invalid
+col 223 is invalid
+col 224 is invalid
+col 225 is invalid
+col 226 is invalid
+col 227 is invalid
+col 228 is invalid
+col 229 is invalid
+col 230 is invalid
+col 231 is invalid
+col 232 is invalid
+col 233 is invalid
+col 234 is invalid
+col 235 is invalid
+col 236 is invalid
+col 237 is invalid
+col 238 is invalid
+col 239 is invalid
+col 240 is invalid
+col 241 is invalid
+col 242 is invalid
+col 243 is invalid
+col 244 is invalid
+col 245 is invalid
+col 246 is invalid
+col 247 is invalid
+col 248 is invalid
+col 249 is invalid
+col 250 is invalid
+col 251 is invalid
+col 252 is invalid
+col 253 is invalid
+col 254 is invalid
+col 255 is invalid
+col 256 is invalid
+col 257 is invalid
+col 258 is invalid
+col 259 is invalid
+col 260 is invalid
+col 261 is invalid
+col 262 is invalid
+col 263 is invalid
+col 264 is invalid
+col 265 is invalid
+col 266 is invalid
+col 267 is invalid
+col 268 is invalid
+col 269 is invalid
+col 270 is invalid
+col 271 is invalid
+col 272 is invalid
+col 273 is invalid
+col 274 is invalid
+col 275 is invalid
+col 276 is invalid
+col 277 is invalid
+col 278 is invalid
+col 279 is invalid
+col 280 is invalid
+col 281 is invalid
+col 282 is invalid
+col 283 is invalid
+col 284 is invalid
+col 285 is invalid
+col 286 is invalid
+col 287 is invalid
+col 288 is invalid
+col 289 is invalid
+col 290 is invalid
+col 291 is invalid
+col 292 is invalid
+col 293 is invalid
+col 294 is invalid
+col 295 is invalid
+col 296 is invalid
+col 297 is invalid
+col 298 is invalid
+col 299 is invalid
+col 300 is invalid
+col 301 is invalid
+col 302 is invalid
+col 303 is invalid
+col 304 is invalid
+col 305 is invalid
+col 306 is invalid
+col 307 is invalid
+col 308 is invalid
+col 309 is invalid
+col 310 is invalid
+col 311 is invalid
+col 312 is invalid
+col 313 is invalid
+col 314 is invalid
+col 315 is invalid
+col 316 is invalid
+col 317 is invalid
+col 318 is invalid
+col 319 is invalid
+col 320 is invalid
+col 321 is invalid
+col 322 is invalid
+col 323 is invalid
+col 324 is invalid
+grid 1 is invalid
+grid 2 is invalid
+grid 3 is invalid
+grid 4 is invalid
+grid 5 is invalid
+grid 6 is invalid
+grid 7 is invalid
+grid 8 is invalid
+grid 9 is invalid
+grid 10 is invalid
+grid 11 is invalid
+grid 12 is invalid
+grid 13 is invalid
+grid 14 is invalid
+grid 15 is invalid
+grid 16 is invalid
+grid 17 is invalid
+grid 18 is invalid
+grid 19 is invalid
+grid 20 is invalid
+grid 21 is invalid
+grid 22 is invalid
+grid 23 is invalid
+grid 24 is invalid
+grid 25 is invalid
+grid 26 is invalid
+grid 27 is invalid
+grid 28 is invalid
+grid 29 is invalid
+grid 30 is invalid
+grid 31 is invalid
+grid 32 is invalid
+grid 33 is invalid
+grid 34 is invalid
+grid 35 is invalid
+grid 36 is invalid
+grid 37 is invalid
+grid 38 is invalid
+grid 39 is invalid
+grid 40 is invalid
+grid 41 is invalid
+grid 42 is invalid
+grid 43 is invalid
+grid 44 is invalid
+grid 45 is invalid
+grid 46 is invalid
+grid 47 is invalid
+grid 48 is invalid
+grid 49 is invalid
+grid 50 is invalid
+grid 51 is invalid
+grid 52 is invalid
+grid 53 is invalid
+grid 54 is invalid
+grid 55 is invalid
+grid 56 is invalid
+grid 57 is invalid
+grid 58 is invalid
+grid 59 is invalid
+grid 60 is invalid
+grid 61 is invalid
+grid 62 is invalid
+grid 63 is invalid
+grid 64 is invalid
+grid 65 is invalid
+grid 66 is invalid
+grid 67 is invalid
+grid 68 is invalid
+grid 69 is invalid
+grid 70 is invalid
+grid 71 is invalid
+grid 72 is invalid
+grid 73 is invalid
+grid 74 is invalid
+grid 75 is invalid
+grid 76 is invalid
+grid 77 is invalid
+grid 78 is invalid
+grid 79 is invalid
+grid 80 is invalid
+grid 81 is invalid
+grid 82 is invalid
+grid 83 is invalid
+grid 84 is invalid
+grid 85 is invalid
+grid 86 is invalid
+grid 87 is invalid
+grid 88 is invalid
+grid 89 is invalid
+grid 90 is invalid
+grid 91 is invalid
+grid 92 is invalid
+grid 93 is invalid
+grid 94 is invalid
+grid 95 is invalid
+grid 96 is invalid
+grid 97 is invalid
+grid 98 is invalid
+grid 99 is invalid
+grid 100 is invalid
+grid 101 is invalid
+grid 102 is invalid
+grid 103 is invalid
+grid 104 is invalid
+grid 105 is invalid
+grid 106 is invalid
+grid 107 is invalid
+grid 108 is invalid
+grid 109 is invalid
+grid 110 is invalid
+grid 111 is invalid
+grid 112 is invalid
+grid 113 is invalid
+grid 114 is invalid
+grid 115 is invalid
+grid 116 is invalid
+grid 117 is invalid
+grid 118 is invalid
+grid 119 is invalid
+grid 120 is invalid
+grid 121 is invalid
+grid 122 is invalid
+grid 123 is invalid
+grid 124 is invalid
+grid 125 is invalid
+grid 126 is invalid
+grid 127 is invalid
+grid 128 is invalid
+grid 129 is invalid
+grid 130 is invalid
+grid 131 is invalid
+grid 132 is invalid
+grid 133 is invalid
+grid 134 is invalid
+grid 135 is invalid
+grid 136 is invalid
+grid 137 is invalid
+grid 138 is invalid
+grid 139 is invalid
+grid 140 is invalid
+grid 141 is invalid
+grid 142 is invalid
+grid 143 is invalid
+grid 144 is invalid
+grid 145 is invalid
+grid 146 is invalid
+grid 147 is invalid
+grid 148 is invalid
+grid 149 is invalid
+grid 150 is invalid
+grid 151 is invalid
+grid 152 is invalid
+grid 153 is invalid
+grid 154 is invalid
+grid 155 is invalid
+grid 156 is invalid
+grid 157 is invalid
+grid 158 is invalid
+grid 159 is invalid
+grid 160 is invalid
+grid 161 is invalid
+grid 162 is invalid
+grid 163 is invalid
+grid 164 is invalid
+grid 165 is invalid
+grid 166 is invalid
+grid 167 is invalid
+grid 168 is invalid
+grid 169 is invalid
+grid 170 is invalid
+grid 171 is invalid
+grid 172 is invalid
+grid 173 is invalid
+grid 174 is invalid
+grid 175 is invalid
+grid 176 is invalid
+grid 177 is invalid
+grid 178 is invalid
+grid 179 is invalid
+grid 180 is invalid
+grid 181 is invalid
+grid 182 is invalid
+grid 183 is invalid
+grid 184 is invalid
+grid 185 is invalid
+grid 186 is invalid
+grid 187 is invalid
+grid 188 is invalid
+grid 189 is invalid
+grid 190 is invalid
+grid 191 is invalid
+grid 192 is invalid
+grid 193 is invalid
+grid 194 is invalid
+grid 195 is invalid
+grid 196 is invalid
+grid 197 is invalid
+grid 198 is invalid
+grid 199 is invalid
+grid 200 is invalid
+grid 201 is invalid
+grid 202 is invalid
+grid 203 is invalid
+grid 204 is invalid
+grid 205 is invalid
+grid 206 is invalid
+grid 207 is invalid
+grid 208 is invalid
+grid 209 is invalid
+grid 210 is invalid
+grid 211 is invalid
+grid 212 is invalid
+grid 213 is invalid
+grid 214 is invalid
+grid 215 is invalid
+grid 216 is invalid
+grid 217 is invalid
+grid 218 is invalid
+grid 219 is invalid
+grid 220 is invalid
+grid 221 is invalid
+grid 222 is invalid
+grid 223 is invalid
+grid 224 is invalid
+grid 225 is invalid
+grid 226 is invalid
+grid 227 is invalid
+grid 228 is invalid
+grid 229 is invalid
+grid 230 is invalid
+grid 231 is invalid
+grid 232 is invalid
+grid 233 is invalid
+grid 234 is invalid
+grid 235 is invalid
+grid 236 is invalid
+grid 237 is invalid
+grid 238 is invalid
+grid 239 is invalid
+grid 240 is invalid
+grid 241 is invalid
+grid 242 is invalid
+grid 243 is invalid
+grid 244 is invalid
+grid 245 is invalid
+grid 246 is invalid
+grid 247 is invalid
+grid 248 is invalid
+grid 249 is invalid
+grid 250 is invalid
+grid 251 is invalid
+grid 252 is invalid
+grid 253 is invalid
+grid 254 is invalid
+grid 255 is invalid
+grid 256 is invalid
+grid 257 is invalid
+grid 258 is invalid
+grid 259 is invalid
+grid 260 is invalid
+grid 261 is invalid
+grid 262 is invalid
+grid 263 is invalid
+grid 264 is invalid
+grid 265 is invalid
+grid 266 is invalid
+grid 267 is invalid
+grid 268 is invalid
+grid 269 is invalid
+grid 270 is invalid
+grid 271 is invalid
+grid 272 is invalid
+grid 273 is invalid
+grid 274 is invalid
+grid 275 is invalid
+grid 276 is invalid
+grid 277 is invalid
+grid 278 is invalid
+grid 279 is invalid
+grid 280 is invalid
+grid 281 is invalid
+grid 282 is invalid
+grid 283 is invalid
+grid 284 is invalid
+grid 285 is invalid
+grid 286 is invalid
+grid 287 is invalid
+grid 288 is invalid
+grid 289 is invalid
+grid 290 is invalid
+grid 291 is invalid
+grid 292 is invalid
+grid 293 is invalid
+grid 294 is invalid
+grid 295 is invalid
+grid 296 is invalid
+grid 297 is invalid
+grid 298 is invalid
+grid 299 is invalid
+grid 300 is invalid
+grid 301 is invalid
+grid 302 is invalid
+grid 303 is invalid
+grid 304 is invalid
+grid 305 is invalid
+grid 306 is invalid
+grid 307 is invalid
+grid 308 is invalid
+grid 309 is invalid
+grid 310 is invalid
+grid 311 is invalid
+grid 312 is invalid
+grid 313 is invalid
+grid 314 is invalid
+grid 315 is invalid
+grid 316 is invalid
+grid 317 is invalid
+grid 318 is invalid
+grid 319 is invalid
+grid 320 is invalid
+grid 321 is invalid
+grid 322 is invalid
+grid 323 is invalid
+grid 324 is invalid
+Sudoku is invalid
+Total time taken is 1554.01
+chunk:
+Thread 1 checks row 1 and is invalid
+Thread 1 checks row 2 and is invalid
+Thread 1 checks row 3 and is invalid
+Thread 1 checks row 4 and is invalid
+Thread 1 checks row 5 and is invalid
+Thread 1 checks row 6 and is invalid
+Thread 1 checks row 7 and is invalid
+Thread 1 checks row 8 and is invalid
+Thread 1 checks row 9 and is invalid
+Thread 1 checks row 10 and is invalid
+Thread 1 checks row 11 and is invalid
+Thread 1 checks row 12 and is invalid
+Thread 1 checks row 13 and is invalid
+Thread 1 checks row 14 and is invalid
+Thread 1 checks row 15 and is invalid
+Thread 1 checks row 16 and is invalid
+Thread 1 checks row 17 and is invalid
+Thread 1 checks row 18 and is invalid
+Thread 1 checks row 19 and is invalid
+Thread 1 checks row 20 and is invalid
+Thread 1 checks row 21 and is invalid
+Thread 1 checks row 22 and is invalid
+Thread 1 checks row 23 and is invalid
+Thread 1 checks row 24 and is invalid
+Thread 1 checks row 25 and is invalid
+Thread 1 checks row 26 and is invalid
+Thread 1 checks row 27 and is invalid
+Thread 1 checks row 28 and is invalid
+Thread 1 checks row 29 and is invalid
+Thread 1 checks row 30 and is invalid
+Thread 1 checks row 31 and is invalid
+Thread 1 checks row 32 and is invalid
+Thread 1 checks row 33 and is invalid
+Thread 1 checks row 34 and is invalid
+Thread 1 checks row 35 and is invalid
+Thread 1 checks row 36 and is invalid
+Thread 1 checks row 37 and is invalid
+Thread 1 checks row 38 and is invalid
+Thread 1 checks row 39 and is invalid
+Thread 1 checks row 40 and is invalid
+Thread 1 checks row 41 and is invalid
+Thread 1 checks row 42 and is invalid
+Thread 1 checks row 43 and is invalid
+Thread 1 checks row 44 and is invalid
+Thread 1 checks row 45 and is invalid
+Thread 1 checks row 46 and is invalid
+Thread 1 checks row 47 and is invalid
+Thread 1 checks row 48 and is invalid
+Thread 1 checks row 49 and is invalid
+Thread 1 checks row 50 and is invalid
+Thread 1 checks row 51 and is invalid
+Thread 1 checks row 52 and is invalid
+Thread 1 checks row 53 and is invalid
+Thread 1 checks row 54 and is invalid
+Thread 1 checks row 55 and is invalid
+Thread 1 checks row 56 and is invalid
+Thread 1 checks row 57 and is invalid
+Thread 1 checks row 58 and is invalid
+Thread 1 checks row 59 and is invalid
+Thread 1 checks row 60 and is invalid
+Thread 1 checks row 61 and is invalid
+Thread 1 checks row 62 and is invalid
+Thread 1 checks row 63 and is invalid
+Thread 1 checks row 64 and is invalid
+Thread 1 checks row 65 and is invalid
+Thread 1 checks row 66 and is invalid
+Thread 1 checks row 67 and is invalid
+Thread 1 checks row 68 and is invalid
+Thread 1 checks row 69 and is invalid
+Thread 1 checks row 70 and is invalid
+Thread 1 checks row 71 and is invalid
+Thread 1 checks row 72 and is invalid
+Thread 1 checks row 73 and is invalid
+Thread 1 checks row 74 and is invalid
+Thread 1 checks row 75 and is invalid
+Thread 1 checks row 76 and is invalid
+Thread 1 checks row 77 and is invalid
+Thread 1 checks row 78 and is invalid
+Thread 1 checks row 79 and is invalid
+Thread 1 checks row 80 and is invalid
+Thread 1 checks row 81 and is invalid
+Thread 1 checks row 82 and is invalid
+Thread 1 checks row 83 and is invalid
+Thread 1 checks row 84 and is invalid
+Thread 1 checks row 85 and is invalid
+Thread 1 checks row 86 and is invalid
+Thread 1 checks row 87 and is invalid
+Thread 1 checks row 88 and is invalid
+Thread 1 checks row 89 and is invalid
+Thread 1 checks row 90 and is invalid
+Thread 1 checks row 91 and is invalid
+Thread 1 checks row 92 and is invalid
+Thread 1 checks row 93 and is invalid
+Thread 1 checks row 94 and is invalid
+Thread 1 checks row 95 and is invalid
+Thread 1 checks row 96 and is invalid
+Thread 1 checks row 97 and is invalid
+Thread 1 checks row 98 and is invalid
+Thread 1 checks row 99 and is invalid
+Thread 1 checks row 100 and is invalid
+Thread 1 checks row 101 and is invalid
+Thread 1 checks row 102 and is invalid
+Thread 1 checks row 103 and is invalid
+Thread 1 checks row 104 and is invalid
+Thread 1 checks row 105 and is invalid
+Thread 1 checks row 106 and is invalid
+Thread 1 checks row 107 and is invalid
+Thread 1 checks row 108 and is invalid
+Thread 2 checks row 109 and is invalid
+Thread 2 checks row 110 and is invalid
+Thread 2 checks row 111 and is invalid
+Thread 2 checks row 112 and is invalid
+Thread 2 checks row 113 and is invalid
+Thread 2 checks row 114 and is invalid
+Thread 2 checks row 115 and is invalid
+Thread 2 checks row 116 and is invalid
+Thread 2 checks row 117 and is invalid
+Thread 2 checks row 118 and is invalid
+Thread 2 checks row 119 and is invalid
+Thread 2 checks row 120 and is invalid
+Thread 2 checks row 121 and is invalid
+Thread 2 checks row 122 and is invalid
+Thread 2 checks row 123 and is invalid
+Thread 2 checks row 124 and is invalid
+Thread 2 checks row 125 and is invalid
+Thread 2 checks row 126 and is invalid
+Thread 2 checks row 127 and is invalid
+Thread 2 checks row 128 and is invalid
+Thread 2 checks row 129 and is invalid
+Thread 2 checks row 130 and is invalid
+Thread 2 checks row 131 and is invalid
+Thread 2 checks row 132 and is invalid
+Thread 2 checks row 133 and is invalid
+Thread 2 checks row 134 and is invalid
+Thread 2 checks row 135 and is invalid
+Thread 2 checks row 136 and is invalid
+Thread 2 checks row 137 and is invalid
+Thread 2 checks row 138 and is invalid
+Thread 2 checks row 139 and is invalid
+Thread 2 checks row 140 and is invalid
+Thread 2 checks row 141 and is invalid
+Thread 2 checks row 142 and is invalid
+Thread 2 checks row 143 and is invalid
+Thread 2 checks row 144 and is invalid
+Thread 2 checks row 145 and is invalid
+Thread 2 checks row 146 and is invalid
+Thread 2 checks row 147 and is invalid
+Thread 2 checks row 148 and is invalid
+Thread 2 checks row 149 and is invalid
+Thread 2 checks row 150 and is invalid
+Thread 2 checks row 151 and is invalid
+Thread 2 checks row 152 and is invalid
+Thread 2 checks row 153 and is invalid
+Thread 2 checks row 154 and is invalid
+Thread 2 checks row 155 and is invalid
+Thread 2 checks row 156 and is invalid
+Thread 2 checks row 157 and is invalid
+Thread 2 checks row 158 and is invalid
+Thread 2 checks row 159 and is invalid
+Thread 2 checks row 160 and is invalid
+Thread 2 checks row 161 and is invalid
+Thread 2 checks row 162 and is invalid
+Thread 2 checks row 163 and is invalid
+Thread 2 checks row 164 and is invalid
+Thread 2 checks row 165 and is invalid
+Thread 2 checks row 166 and is invalid
+Thread 2 checks row 167 and is invalid
+Thread 2 checks row 168 and is invalid
+Thread 2 checks row 169 and is invalid
+Thread 2 checks row 170 and is invalid
+Thread 2 checks row 171 and is invalid
+Thread 2 checks row 172 and is invalid
+Thread 2 checks row 173 and is invalid
+Thread 2 checks row 174 and is invalid
+Thread 2 checks row 175 and is invalid
+Thread 2 checks row 176 and is invalid
+Thread 2 checks row 177 and is invalid
+Thread 2 checks row 178 and is invalid
+Thread 2 checks row 179 and is invalid
+Thread 2 checks row 180 and is invalid
+Thread 2 checks row 181 and is invalid
+Thread 2 checks row 182 and is invalid
+Thread 2 checks row 183 and is invalid
+Thread 2 checks row 184 and is invalid
+Thread 2 checks row 185 and is invalid
+Thread 2 checks row 186 and is invalid
+Thread 2 checks row 187 and is invalid
+Thread 2 checks row 188 and is invalid
+Thread 2 checks row 189 and is invalid
+Thread 2 checks row 190 and is invalid
+Thread 2 checks row 191 and is invalid
+Thread 2 checks row 192 and is invalid
+Thread 2 checks row 193 and is invalid
+Thread 2 checks row 194 and is invalid
+Thread 2 checks row 195 and is invalid
+Thread 2 checks row 196 and is invalid
+Thread 2 checks row 197 and is invalid
+Thread 2 checks row 198 and is invalid
+Thread 2 checks row 199 and is invalid
+Thread 2 checks row 200 and is invalid
+Thread 2 checks row 201 and is invalid
+Thread 2 checks row 202 and is invalid
+Thread 2 checks row 203 and is invalid
+Thread 2 checks row 204 and is invalid
+Thread 2 checks row 205 and is invalid
+Thread 2 checks row 206 and is invalid
+Thread 2 checks row 207 and is invalid
+Thread 2 checks row 208 and is invalid
+Thread 2 checks row 209 and is invalid
+Thread 2 checks row 210 and is invalid
+Thread 2 checks row 211 and is invalid
+Thread 2 checks row 212 and is invalid
+Thread 2 checks row 213 and is invalid
+Thread 2 checks row 214 and is invalid
+Thread 2 checks row 215 and is invalid
+Thread 2 checks row 216 and is invalid
+Thread 3 checks row 217 and is invalid
+Thread 3 checks row 218 and is invalid
+Thread 3 checks row 219 and is invalid
+Thread 3 checks row 220 and is invalid
+Thread 3 checks row 221 and is invalid
+Thread 3 checks row 222 and is invalid
+Thread 3 checks row 223 and is invalid
+Thread 3 checks row 224 and is invalid
+Thread 3 checks row 225 and is invalid
+Thread 3 checks row 226 and is invalid
+Thread 3 checks row 227 and is invalid
+Thread 3 checks row 228 and is invalid
+Thread 3 checks row 229 and is invalid
+Thread 3 checks row 230 and is invalid
+Thread 3 checks row 231 and is invalid
+Thread 3 checks row 232 and is invalid
+Thread 3 checks row 233 and is invalid
+Thread 3 checks row 234 and is invalid
+Thread 3 checks row 235 and is invalid
+Thread 3 checks row 236 and is invalid
+Thread 3 checks row 237 and is invalid
+Thread 3 checks row 238 and is invalid
+Thread 3 checks row 239 and is invalid
+Thread 3 checks row 240 and is invalid
+Thread 3 checks row 241 and is invalid
+Thread 3 checks row 242 and is invalid
+Thread 3 checks row 243 and is invalid
+Thread 3 checks row 244 and is invalid
+Thread 3 checks row 245 and is invalid
+Thread 3 checks row 246 and is invalid
+Thread 3 checks row 247 and is invalid
+Thread 3 checks row 248 and is invalid
+Thread 3 checks row 249 and is invalid
+Thread 3 checks row 250 and is invalid
+Thread 3 checks row 251 and is invalid
+Thread 3 checks row 252 and is invalid
+Thread 3 checks row 253 and is invalid
+Thread 3 checks row 254 and is invalid
+Thread 3 checks row 255 and is invalid
+Thread 3 checks row 256 and is invalid
+Thread 3 checks row 257 and is invalid
+Thread 3 checks row 258 and is invalid
+Thread 3 checks row 259 and is invalid
+Thread 3 checks row 260 and is invalid
+Thread 3 checks row 261 and is invalid
+Thread 3 checks row 262 and is invalid
+Thread 3 checks row 263 and is invalid
+Thread 3 checks row 264 and is invalid
+Thread 3 checks row 265 and is invalid
+Thread 3 checks row 266 and is invalid
+Thread 3 checks row 267 and is invalid
+Thread 3 checks row 268 and is invalid
+Thread 3 checks row 269 and is invalid
+Thread 3 checks row 270 and is invalid
+Thread 3 checks row 271 and is invalid
+Thread 3 checks row 272 and is invalid
+Thread 3 checks row 273 and is invalid
+Thread 3 checks row 274 and is invalid
+Thread 3 checks row 275 and is invalid
+Thread 3 checks row 276 and is invalid
+Thread 3 checks row 277 and is invalid
+Thread 3 checks row 278 and is invalid
+Thread 3 checks row 279 and is invalid
+Thread 3 checks row 280 and is invalid
+Thread 3 checks row 281 and is invalid
+Thread 3 checks row 282 and is invalid
+Thread 3 checks row 283 and is invalid
+Thread 3 checks row 284 and is invalid
+Thread 3 checks row 285 and is invalid
+Thread 3 checks row 286 and is invalid
+Thread 3 checks row 287 and is invalid
+Thread 3 checks row 288 and is invalid
+Thread 3 checks row 289 and is invalid
+Thread 3 checks row 290 and is invalid
+Thread 3 checks row 291 and is invalid
+Thread 3 checks row 292 and is invalid
+Thread 3 checks row 293 and is invalid
+Thread 3 checks row 294 and is invalid
+Thread 3 checks row 295 and is invalid
+Thread 3 checks row 296 and is invalid
+Thread 3 checks row 297 and is invalid
+Thread 3 checks row 298 and is invalid
+Thread 3 checks row 299 and is invalid
+Thread 3 checks row 300 and is invalid
+Thread 3 checks row 301 and is invalid
+Thread 3 checks row 302 and is invalid
+Thread 3 checks row 303 and is invalid
+Thread 3 checks row 304 and is invalid
+Thread 3 checks row 305 and is invalid
+Thread 3 checks row 306 and is invalid
+Thread 3 checks row 307 and is invalid
+Thread 3 checks row 308 and is invalid
+Thread 3 checks row 309 and is invalid
+Thread 3 checks row 310 and is invalid
+Thread 3 checks row 311 and is invalid
+Thread 3 checks row 312 and is invalid
+Thread 3 checks row 313 and is invalid
+Thread 3 checks row 314 and is invalid
+Thread 3 checks row 315 and is invalid
+Thread 3 checks row 316 and is invalid
+Thread 3 checks row 317 and is invalid
+Thread 3 checks row 318 and is invalid
+Thread 3 checks row 319 and is invalid
+Thread 3 checks row 320 and is invalid
+Thread 3 checks row 321 and is invalid
+Thread 3 checks row 322 and is invalid
+Thread 3 checks row 323 and is invalid
+Thread 3 checks row 324 and is invalid
+Thread 4 checks col 1 and is invalid
+Thread 4 checks col 2 and is invalid
+Thread 4 checks col 3 and is invalid
+Thread 4 checks col 4 and is invalid
+Thread 4 checks col 5 and is invalid
+Thread 4 checks col 6 and is invalid
+Thread 4 checks col 7 and is invalid
+Thread 4 checks col 8 and is invalid
+Thread 4 checks col 9 and is invalid
+Thread 4 checks col 10 and is invalid
+Thread 4 checks col 11 and is invalid
+Thread 4 checks col 12 and is invalid
+Thread 4 checks col 13 and is invalid
+Thread 4 checks col 14 and is invalid
+Thread 4 checks col 15 and is invalid
+Thread 4 checks col 16 and is invalid
+Thread 4 checks col 17 and is invalid
+Thread 4 checks col 18 and is invalid
+Thread 4 checks col 19 and is invalid
+Thread 4 checks col 20 and is invalid
+Thread 4 checks col 21 and is invalid
+Thread 4 checks col 22 and is invalid
+Thread 4 checks col 23 and is invalid
+Thread 4 checks col 24 and is invalid
+Thread 4 checks col 25 and is invalid
+Thread 4 checks col 26 and is invalid
+Thread 4 checks col 27 and is invalid
+Thread 4 checks col 28 and is invalid
+Thread 4 checks col 29 and is invalid
+Thread 4 checks col 30 and is invalid
+Thread 4 checks col 31 and is invalid
+Thread 4 checks col 32 and is invalid
+Thread 4 checks col 33 and is invalid
+Thread 4 checks col 34 and is invalid
+Thread 4 checks col 35 and is invalid
+Thread 4 checks col 36 and is invalid
+Thread 4 checks col 37 and is invalid
+Thread 4 checks col 38 and is invalid
+Thread 4 checks col 39 and is invalid
+Thread 4 checks col 40 and is invalid
+Thread 4 checks col 41 and is invalid
+Thread 4 checks col 42 and is invalid
+Thread 4 checks col 43 and is invalid
+Thread 4 checks col 44 and is invalid
+Thread 4 checks col 45 and is invalid
+Thread 4 checks col 46 and is invalid
+Thread 4 checks col 47 and is invalid
+Thread 4 checks col 48 and is invalid
+Thread 4 checks col 49 and is invalid
+Thread 4 checks col 50 and is invalid
+Thread 4 checks col 51 and is invalid
+Thread 4 checks col 52 and is invalid
+Thread 4 checks col 53 and is invalid
+Thread 4 checks col 54 and is invalid
+Thread 4 checks col 55 and is invalid
+Thread 4 checks col 56 and is invalid
+Thread 4 checks col 57 and is invalid
+Thread 4 checks col 58 and is invalid
+Thread 4 checks col 59 and is invalid
+Thread 4 checks col 60 and is invalid
+Thread 4 checks col 61 and is invalid
+Thread 4 checks col 62 and is invalid
+Thread 4 checks col 63 and is invalid
+Thread 4 checks col 64 and is invalid
+Thread 4 checks col 65 and is invalid
+Thread 4 checks col 66 and is invalid
+Thread 4 checks col 67 and is invalid
+Thread 4 checks col 68 and is invalid
+Thread 4 checks col 69 and is invalid
+Thread 4 checks col 70 and is invalid
+Thread 4 checks col 71 and is invalid
+Thread 4 checks col 72 and is invalid
+Thread 4 checks col 73 and is invalid
+Thread 4 checks col 74 and is invalid
+Thread 4 checks col 75 and is invalid
+Thread 4 checks col 76 and is invalid
+Thread 4 checks col 77 and is invalid
+Thread 4 checks col 78 and is invalid
+Thread 4 checks col 79 and is invalid
+Thread 4 checks col 80 and is invalid
+Thread 4 checks col 81 and is invalid
+Thread 4 checks col 82 and is invalid
+Thread 4 checks col 83 and is invalid
+Thread 4 checks col 84 and is invalid
+Thread 4 checks col 85 and is invalid
+Thread 4 checks col 86 and is invalid
+Thread 4 checks col 87 and is invalid
+Thread 4 checks col 88 and is invalid
+Thread 4 checks col 89 and is invalid
+Thread 4 checks col 90 and is invalid
+Thread 4 checks col 91 and is invalid
+Thread 4 checks col 92 and is invalid
+Thread 4 checks col 93 and is invalid
+Thread 4 checks col 94 and is invalid
+Thread 4 checks col 95 and is invalid
+Thread 4 checks col 96 and is invalid
+Thread 4 checks col 97 and is invalid
+Thread 4 checks col 98 and is invalid
+Thread 4 checks col 99 and is invalid
+Thread 4 checks col 100 and is invalid
+Thread 4 checks col 101 and is invalid
+Thread 4 checks col 102 and is invalid
+Thread 4 checks col 103 and is invalid
+Thread 4 checks col 104 and is invalid
+Thread 4 checks col 105 and is invalid
+Thread 4 checks col 106 and is invalid
+Thread 4 checks col 107 and is invalid
+Thread 4 checks col 108 and is invalid
+Thread 5 checks col 109 and is invalid
+Thread 5 checks col 110 and is invalid
+Thread 5 checks col 111 and is invalid
+Thread 5 checks col 112 and is invalid
+Thread 5 checks col 113 and is invalid
+Thread 5 checks col 114 and is invalid
+Thread 5 checks col 115 and is invalid
+Thread 5 checks col 116 and is invalid
+Thread 5 checks col 117 and is invalid
+Thread 5 checks col 118 and is invalid
+Thread 5 checks col 119 and is invalid
+Thread 5 checks col 120 and is invalid
+Thread 5 checks col 121 and is invalid
+Thread 5 checks col 122 and is invalid
+Thread 5 checks col 123 and is invalid
+Thread 5 checks col 124 and is invalid
+Thread 5 checks col 125 and is invalid
+Thread 5 checks col 126 and is invalid
+Thread 5 checks col 127 and is invalid
+Thread 5 checks col 128 and is invalid
+Thread 5 checks col 129 and is invalid
+Thread 5 checks col 130 and is invalid
+Thread 5 checks col 131 and is invalid
+Thread 5 checks col 132 and is invalid
+Thread 5 checks col 133 and is invalid
+Thread 5 checks col 134 and is invalid
+Thread 5 checks col 135 and is invalid
+Thread 5 checks col 136 and is invalid
+Thread 5 checks col 137 and is invalid
+Thread 5 checks col 138 and is invalid
+Thread 5 checks col 139 and is invalid
+Thread 5 checks col 140 and is invalid
+Thread 5 checks col 141 and is invalid
+Thread 5 checks col 142 and is invalid
+Thread 5 checks col 143 and is invalid
+Thread 5 checks col 144 and is invalid
+Thread 5 checks col 145 and is invalid
+Thread 5 checks col 146 and is invalid
+Thread 5 checks col 147 and is invalid
+Thread 5 checks col 148 and is invalid
+Thread 5 checks col 149 and is invalid
+Thread 5 checks col 150 and is invalid
+Thread 5 checks col 151 and is invalid
+Thread 5 checks col 152 and is invalid
+Thread 5 checks col 153 and is invalid
+Thread 5 checks col 154 and is invalid
+Thread 5 checks col 155 and is invalid
+Thread 5 checks col 156 and is invalid
+Thread 5 checks col 157 and is invalid
+Thread 5 checks col 158 and is invalid
+Thread 5 checks col 159 and is invalid
+Thread 5 checks col 160 and is invalid
+Thread 5 checks col 161 and is invalid
+Thread 5 checks col 162 and is invalid
+Thread 5 checks col 163 and is invalid
+Thread 5 checks col 164 and is invalid
+Thread 5 checks col 165 and is invalid
+Thread 5 checks col 166 and is invalid
+Thread 5 checks col 167 and is invalid
+Thread 5 checks col 168 and is invalid
+Thread 5 checks col 169 and is invalid
+Thread 5 checks col 170 and is invalid
+Thread 5 checks col 171 and is invalid
+Thread 5 checks col 172 and is invalid
+Thread 5 checks col 173 and is invalid
+Thread 5 checks col 174 and is invalid
+Thread 5 checks col 175 and is invalid
+Thread 5 checks col 176 and is invalid
+Thread 5 checks col 177 and is invalid
+Thread 5 checks col 178 and is invalid
+Thread 5 checks col 179 and is invalid
+Thread 5 checks col 180 and is invalid
+Thread 5 checks col 181 and is invalid
+Thread 5 checks col 182 and is invalid
+Thread 5 checks col 183 and is invalid
+Thread 5 checks col 184 and is invalid
+Thread 5 checks col 185 and is invalid
+Thread 5 checks col 186 and is invalid
+Thread 5 checks col 187 and is invalid
+Thread 5 checks col 188 and is invalid
+Thread 5 checks col 189 and is invalid
+Thread 5 checks col 190 and is invalid
+Thread 5 checks col 191 and is invalid
+Thread 5 checks col 192 and is invalid
+Thread 5 checks col 193 and is invalid
+Thread 5 checks col 194 and is invalid
+Thread 5 checks col 195 and is invalid
+Thread 5 checks col 196 and is invalid
+Thread 5 checks col 197 and is invalid
+Thread 5 checks col 198 and is invalid
+Thread 5 checks col 199 and is invalid
+Thread 5 checks col 200 and is invalid
+Thread 5 checks col 201 and is invalid
+Thread 5 checks col 202 and is invalid
+Thread 5 checks col 203 and is invalid
+Thread 5 checks col 204 and is invalid
+Thread 5 checks col 205 and is invalid
+Thread 5 checks col 206 and is invalid
+Thread 5 checks col 207 and is invalid
+Thread 5 checks col 208 and is invalid
+Thread 5 checks col 209 and is invalid
+Thread 5 checks col 210 and is invalid
+Thread 5 checks col 211 and is invalid
+Thread 5 checks col 212 and is invalid
+Thread 5 checks col 213 and is invalid
+Thread 5 checks col 214 and is invalid
+Thread 5 checks col 215 and is invalid
+Thread 5 checks col 216 and is invalid
+Thread 6 checks col 217 and is invalid
+Thread 6 checks col 218 and is invalid
+Thread 6 checks col 219 and is invalid
+Thread 6 checks col 220 and is invalid
+Thread 6 checks col 221 and is invalid
+Thread 6 checks col 222 and is invalid
+Thread 6 checks col 223 and is invalid
+Thread 6 checks col 224 and is invalid
+Thread 6 checks col 225 and is invalid
+Thread 6 checks col 226 and is invalid
+Thread 6 checks col 227 and is invalid
+Thread 6 checks col 228 and is invalid
+Thread 6 checks col 229 and is invalid
+Thread 6 checks col 230 and is invalid
+Thread 6 checks col 231 and is invalid
+Thread 6 checks col 232 and is invalid
+Thread 6 checks col 233 and is invalid
+Thread 6 checks col 234 and is invalid
+Thread 6 checks col 235 and is invalid
+Thread 6 checks col 236 and is invalid
+Thread 6 checks col 237 and is invalid
+Thread 6 checks col 238 and is invalid
+Thread 6 checks col 239 and is invalid
+Thread 6 checks col 240 and is invalid
+Thread 6 checks col 241 and is invalid
+Thread 6 checks col 242 and is invalid
+Thread 6 checks col 243 and is invalid
+Thread 6 checks col 244 and is invalid
+Thread 6 checks col 245 and is invalid
+Thread 6 checks col 246 and is invalid
+Thread 6 checks col 247 and is invalid
+Thread 6 checks col 248 and is invalid
+Thread 6 checks col 249 and is invalid
+Thread 6 checks col 250 and is invalid
+Thread 6 checks col 251 and is invalid
+Thread 6 checks col 252 and is invalid
+Thread 6 checks col 253 and is invalid
+Thread 6 checks col 254 and is invalid
+Thread 6 checks col 255 and is invalid
+Thread 6 checks col 256 and is invalid
+Thread 6 checks col 257 and is invalid
+Thread 6 checks col 258 and is invalid
+Thread 6 checks col 259 and is invalid
+Thread 6 checks col 260 and is invalid
+Thread 6 checks col 261 and is invalid
+Thread 6 checks col 262 and is invalid
+Thread 6 checks col 263 and is invalid
+Thread 6 checks col 264 and is invalid
+Thread 6 checks col 265 and is invalid
+Thread 6 checks col 266 and is invalid
+Thread 6 checks col 267 and is invalid
+Thread 6 checks col 268 and is invalid
+Thread 6 checks col 269 and is invalid
+Thread 6 checks col 270 and is invalid
+Thread 6 checks col 271 and is invalid
+Thread 6 checks col 272 and is invalid
+Thread 6 checks col 273 and is invalid
+Thread 6 checks col 274 and is invalid
+Thread 6 checks col 275 and is invalid
+Thread 6 checks col 276 and is invalid
+Thread 6 checks col 277 and is invalid
+Thread 6 checks col 278 and is invalid
+Thread 6 checks col 279 and is invalid
+Thread 6 checks col 280 and is invalid
+Thread 6 checks col 281 and is invalid
+Thread 6 checks col 282 and is invalid
+Thread 6 checks col 283 and is invalid
+Thread 6 checks col 284 and is invalid
+Thread 6 checks col 285 and is invalid
+Thread 6 checks col 286 and is invalid
+Thread 6 checks col 287 and is invalid
+Thread 6 checks col 288 and is invalid
+Thread 6 checks col 289 and is invalid
+Thread 6 checks col 290 and is invalid
+Thread 6 checks col 291 and is invalid
+Thread 6 checks col 292 and is invalid
+Thread 6 checks col 293 and is invalid
+Thread 6 checks col 294 and is invalid
+Thread 6 checks col 295 and is invalid
+Thread 6 checks col 296 and is invalid
+Thread 6 checks col 297 and is invalid
+Thread 6 checks col 298 and is invalid
+Thread 6 checks col 299 and is invalid
+Thread 6 checks col 300 and is invalid
+Thread 6 checks col 301 and is invalid
+Thread 6 checks col 302 and is invalid
+Thread 6 checks col 303 and is invalid
+Thread 6 checks col 304 and is invalid
+Thread 6 checks col 305 and is invalid
+Thread 6 checks col 306 and is invalid
+Thread 6 checks col 307 and is invalid
+Thread 6 checks col 308 and is invalid
+Thread 6 checks col 309 and is invalid
+Thread 6 checks col 310 and is invalid
+Thread 6 checks col 311 and is invalid
+Thread 6 checks col 312 and is invalid
+Thread 6 checks col 313 and is invalid
+Thread 6 checks col 314 and is invalid
+Thread 6 checks col 315 and is invalid
+Thread 6 checks col 316 and is invalid
+Thread 6 checks col 317 and is invalid
+Thread 6 checks col 318 and is invalid
+Thread 6 checks col 319 and is invalid
+Thread 6 checks col 320 and is invalid
+Thread 6 checks col 321 and is invalid
+Thread 6 checks col 322 and is invalid
+Thread 6 checks col 323 and is invalid
+Thread 6 checks col 324 and is invalid
+Thread 7 checks grid 1 and is invalid
+Thread 7 checks grid 2 and is invalid
+Thread 7 checks grid 3 and is invalid
+Thread 7 checks grid 4 and is invalid
+Thread 7 checks grid 5 and is invalid
+Thread 7 checks grid 6 and is invalid
+Thread 7 checks grid 7 and is invalid
+Thread 7 checks grid 8 and is invalid
+Thread 7 checks grid 9 and is invalid
+Thread 7 checks grid 10 and is invalid
+Thread 7 checks grid 11 and is invalid
+Thread 7 checks grid 12 and is invalid
+Thread 7 checks grid 13 and is invalid
+Thread 7 checks grid 14 and is invalid
+Thread 7 checks grid 15 and is invalid
+Thread 7 checks grid 16 and is invalid
+Thread 7 checks grid 17 and is invalid
+Thread 7 checks grid 18 and is invalid
+Thread 7 checks grid 19 and is invalid
+Thread 7 checks grid 20 and is invalid
+Thread 7 checks grid 21 and is invalid
+Thread 7 checks grid 22 and is invalid
+Thread 7 checks grid 23 and is invalid
+Thread 7 checks grid 24 and is invalid
+Thread 7 checks grid 25 and is invalid
+Thread 7 checks grid 26 and is invalid
+Thread 7 checks grid 27 and is invalid
+Thread 7 checks grid 28 and is invalid
+Thread 7 checks grid 29 and is invalid
+Thread 7 checks grid 30 and is invalid
+Thread 7 checks grid 31 and is invalid
+Thread 7 checks grid 32 and is invalid
+Thread 7 checks grid 33 and is invalid
+Thread 7 checks grid 34 and is invalid
+Thread 7 checks grid 35 and is invalid
+Thread 7 checks grid 36 and is invalid
+Thread 7 checks grid 37 and is invalid
+Thread 7 checks grid 38 and is invalid
+Thread 7 checks grid 39 and is invalid
+Thread 7 checks grid 40 and is invalid
+Thread 7 checks grid 41 and is invalid
+Thread 7 checks grid 42 and is invalid
+Thread 7 checks grid 43 and is invalid
+Thread 7 checks grid 44 and is invalid
+Thread 7 checks grid 45 and is invalid
+Thread 7 checks grid 46 and is invalid
+Thread 7 checks grid 47 and is invalid
+Thread 7 checks grid 48 and is invalid
+Thread 7 checks grid 49 and is invalid
+Thread 7 checks grid 50 and is invalid
+Thread 7 checks grid 51 and is invalid
+Thread 7 checks grid 52 and is invalid
+Thread 7 checks grid 53 and is invalid
+Thread 7 checks grid 54 and is invalid
+Thread 7 checks grid 55 and is invalid
+Thread 7 checks grid 56 and is invalid
+Thread 7 checks grid 57 and is invalid
+Thread 7 checks grid 58 and is invalid
+Thread 7 checks grid 59 and is invalid
+Thread 7 checks grid 60 and is invalid
+Thread 7 checks grid 61 and is invalid
+Thread 7 checks grid 62 and is invalid
+Thread 7 checks grid 63 and is invalid
+Thread 7 checks grid 64 and is invalid
+Thread 7 checks grid 65 and is invalid
+Thread 7 checks grid 66 and is invalid
+Thread 7 checks grid 67 and is invalid
+Thread 7 checks grid 68 and is invalid
+Thread 7 checks grid 69 and is invalid
+Thread 7 checks grid 70 and is invalid
+Thread 7 checks grid 71 and is invalid
+Thread 7 checks grid 72 and is invalid
+Thread 7 checks grid 73 and is invalid
+Thread 7 checks grid 74 and is invalid
+Thread 7 checks grid 75 and is invalid
+Thread 7 checks grid 76 and is invalid
+Thread 7 checks grid 77 and is invalid
+Thread 7 checks grid 78 and is invalid
+Thread 7 checks grid 79 and is invalid
+Thread 7 checks grid 80 and is invalid
+Thread 7 checks grid 81 and is invalid
+Thread 7 checks grid 82 and is invalid
+Thread 7 checks grid 83 and is invalid
+Thread 7 checks grid 84 and is invalid
+Thread 7 checks grid 85 and is invalid
+Thread 7 checks grid 86 and is invalid
+Thread 7 checks grid 87 and is invalid
+Thread 7 checks grid 88 and is invalid
+Thread 7 checks grid 89 and is invalid
+Thread 7 checks grid 90 and is invalid
+Thread 7 checks grid 91 and is invalid
+Thread 7 checks grid 92 and is invalid
+Thread 7 checks grid 93 and is invalid
+Thread 7 checks grid 94 and is invalid
+Thread 7 checks grid 95 and is invalid
+Thread 7 checks grid 96 and is invalid
+Thread 7 checks grid 97 and is invalid
+Thread 7 checks grid 98 and is invalid
+Thread 7 checks grid 99 and is invalid
+Thread 7 checks grid 100 and is invalid
+Thread 7 checks grid 101 and is invalid
+Thread 7 checks grid 102 and is invalid
+Thread 7 checks grid 103 and is invalid
+Thread 7 checks grid 104 and is invalid
+Thread 7 checks grid 105 and is invalid
+Thread 7 checks grid 106 and is invalid
+Thread 7 checks grid 107 and is invalid
+Thread 7 checks grid 108 and is invalid
+Thread 7 checks grid 109 and is invalid
+Thread 7 checks grid 110 and is invalid
+Thread 7 checks grid 111 and is invalid
+Thread 7 checks grid 112 and is invalid
+Thread 7 checks grid 113 and is invalid
+Thread 7 checks grid 114 and is invalid
+Thread 7 checks grid 115 and is invalid
+Thread 7 checks grid 116 and is invalid
+Thread 7 checks grid 117 and is invalid
+Thread 7 checks grid 118 and is invalid
+Thread 7 checks grid 119 and is invalid
+Thread 7 checks grid 120 and is invalid
+Thread 7 checks grid 121 and is invalid
+Thread 7 checks grid 122 and is invalid
+Thread 7 checks grid 123 and is invalid
+Thread 7 checks grid 124 and is invalid
+Thread 7 checks grid 125 and is invalid
+Thread 7 checks grid 126 and is invalid
+Thread 7 checks grid 127 and is invalid
+Thread 7 checks grid 128 and is invalid
+Thread 7 checks grid 129 and is invalid
+Thread 7 checks grid 130 and is invalid
+Thread 7 checks grid 131 and is invalid
+Thread 7 checks grid 132 and is invalid
+Thread 7 checks grid 133 and is invalid
+Thread 7 checks grid 134 and is invalid
+Thread 7 checks grid 135 and is invalid
+Thread 7 checks grid 136 and is invalid
+Thread 7 checks grid 137 and is invalid
+Thread 7 checks grid 138 and is invalid
+Thread 7 checks grid 139 and is invalid
+Thread 7 checks grid 140 and is invalid
+Thread 7 checks grid 141 and is invalid
+Thread 7 checks grid 142 and is invalid
+Thread 7 checks grid 143 and is invalid
+Thread 7 checks grid 144 and is invalid
+Thread 7 checks grid 145 and is invalid
+Thread 7 checks grid 146 and is invalid
+Thread 7 checks grid 147 and is invalid
+Thread 7 checks grid 148 and is invalid
+Thread 7 checks grid 149 and is invalid
+Thread 7 checks grid 150 and is invalid
+Thread 7 checks grid 151 and is invalid
+Thread 7 checks grid 152 and is invalid
+Thread 7 checks grid 153 and is invalid
+Thread 7 checks grid 154 and is invalid
+Thread 7 checks grid 155 and is invalid
+Thread 7 checks grid 156 and is invalid
+Thread 7 checks grid 157 and is invalid
+Thread 7 checks grid 158 and is invalid
+Thread 7 checks grid 159 and is invalid
+Thread 7 checks grid 160 and is invalid
+Thread 7 checks grid 161 and is invalid
+Thread 7 checks grid 162 and is invalid
+Thread 8 checks grid 163 and is invalid
+Thread 8 checks grid 164 and is invalid
+Thread 8 checks grid 165 and is invalid
+Thread 8 checks grid 166 and is invalid
+Thread 8 checks grid 167 and is invalid
+Thread 8 checks grid 168 and is invalid
+Thread 8 checks grid 169 and is invalid
+Thread 8 checks grid 170 and is invalid
+Thread 8 checks grid 171 and is invalid
+Thread 8 checks grid 172 and is invalid
+Thread 8 checks grid 173 and is invalid
+Thread 8 checks grid 174 and is invalid
+Thread 8 checks grid 175 and is invalid
+Thread 8 checks grid 176 and is invalid
+Thread 8 checks grid 177 and is invalid
+Thread 8 checks grid 178 and is invalid
+Thread 8 checks grid 179 and is invalid
+Thread 8 checks grid 180 and is invalid
+Thread 8 checks grid 181 and is invalid
+Thread 8 checks grid 182 and is invalid
+Thread 8 checks grid 183 and is invalid
+Thread 8 checks grid 184 and is invalid
+Thread 8 checks grid 185 and is invalid
+Thread 8 checks grid 186 and is invalid
+Thread 8 checks grid 187 and is invalid
+Thread 8 checks grid 188 and is invalid
+Thread 8 checks grid 189 and is invalid
+Thread 8 checks grid 190 and is invalid
+Thread 8 checks grid 191 and is invalid
+Thread 8 checks grid 192 and is invalid
+Thread 8 checks grid 193 and is invalid
+Thread 8 checks grid 194 and is invalid
+Thread 8 checks grid 195 and is invalid
+Thread 8 checks grid 196 and is invalid
+Thread 8 checks grid 197 and is invalid
+Thread 8 checks grid 198 and is invalid
+Thread 8 checks grid 199 and is invalid
+Thread 8 checks grid 200 and is invalid
+Thread 8 checks grid 201 and is invalid
+Thread 8 checks grid 202 and is invalid
+Thread 8 checks grid 203 and is invalid
+Thread 8 checks grid 204 and is invalid
+Thread 8 checks grid 205 and is invalid
+Thread 8 checks grid 206 and is invalid
+Thread 8 checks grid 207 and is invalid
+Thread 8 checks grid 208 and is invalid
+Thread 8 checks grid 209 and is invalid
+Thread 8 checks grid 210 and is invalid
+Thread 8 checks grid 211 and is invalid
+Thread 8 checks grid 212 and is invalid
+Thread 8 checks grid 213 and is invalid
+Thread 8 checks grid 214 and is invalid
+Thread 8 checks grid 215 and is invalid
+Thread 8 checks grid 216 and is invalid
+Thread 8 checks grid 217 and is invalid
+Thread 8 checks grid 218 and is invalid
+Thread 8 checks grid 219 and is invalid
+Thread 8 checks grid 220 and is invalid
+Thread 8 checks grid 221 and is invalid
+Thread 8 checks grid 222 and is invalid
+Thread 8 checks grid 223 and is invalid
+Thread 8 checks grid 224 and is invalid
+Thread 8 checks grid 225 and is invalid
+Thread 8 checks grid 226 and is invalid
+Thread 8 checks grid 227 and is invalid
+Thread 8 checks grid 228 and is invalid
+Thread 8 checks grid 229 and is invalid
+Thread 8 checks grid 230 and is invalid
+Thread 8 checks grid 231 and is invalid
+Thread 8 checks grid 232 and is invalid
+Thread 8 checks grid 233 and is invalid
+Thread 8 checks grid 234 and is invalid
+Thread 8 checks grid 235 and is invalid
+Thread 8 checks grid 236 and is invalid
+Thread 8 checks grid 237 and is invalid
+Thread 8 checks grid 238 and is invalid
+Thread 8 checks grid 239 and is invalid
+Thread 8 checks grid 240 and is invalid
+Thread 8 checks grid 241 and is invalid
+Thread 8 checks grid 242 and is invalid
+Thread 8 checks grid 243 and is invalid
+Thread 8 checks grid 244 and is invalid
+Thread 8 checks grid 245 and is invalid
+Thread 8 checks grid 246 and is invalid
+Thread 8 checks grid 247 and is invalid
+Thread 8 checks grid 248 and is invalid
+Thread 8 checks grid 249 and is invalid
+Thread 8 checks grid 250 and is invalid
+Thread 8 checks grid 251 and is invalid
+Thread 8 checks grid 252 and is invalid
+Thread 8 checks grid 253 and is invalid
+Thread 8 checks grid 254 and is invalid
+Thread 8 checks grid 255 and is invalid
+Thread 8 checks grid 256 and is invalid
+Thread 8 checks grid 257 and is invalid
+Thread 8 checks grid 258 and is invalid
+Thread 8 checks grid 259 and is invalid
+Thread 8 checks grid 260 and is invalid
+Thread 8 checks grid 261 and is invalid
+Thread 8 checks grid 262 and is invalid
+Thread 8 checks grid 263 and is invalid
+Thread 8 checks grid 264 and is invalid
+Thread 8 checks grid 265 and is invalid
+Thread 8 checks grid 266 and is invalid
+Thread 8 checks grid 267 and is invalid
+Thread 8 checks grid 268 and is invalid
+Thread 8 checks grid 269 and is invalid
+Thread 8 checks grid 270 and is invalid
+Thread 8 checks grid 271 and is invalid
+Thread 8 checks grid 272 and is invalid
+Thread 8 checks grid 273 and is invalid
+Thread 8 checks grid 274 and is invalid
+Thread 8 checks grid 275 and is invalid
+Thread 8 checks grid 276 and is invalid
+Thread 8 checks grid 277 and is invalid
+Thread 8 checks grid 278 and is invalid
+Thread 8 checks grid 279 and is invalid
+Thread 8 checks grid 280 and is invalid
+Thread 8 checks grid 281 and is invalid
+Thread 8 checks grid 282 and is invalid
+Thread 8 checks grid 283 and is invalid
+Thread 8 checks grid 284 and is invalid
+Thread 8 checks grid 285 and is invalid
+Thread 8 checks grid 286 and is invalid
+Thread 8 checks grid 287 and is invalid
+Thread 8 checks grid 288 and is invalid
+Thread 8 checks grid 289 and is invalid
+Thread 8 checks grid 290 and is invalid
+Thread 8 checks grid 291 and is invalid
+Thread 8 checks grid 292 and is invalid
+Thread 8 checks grid 293 and is invalid
+Thread 8 checks grid 294 and is invalid
+Thread 8 checks grid 295 and is invalid
+Thread 8 checks grid 296 and is invalid
+Thread 8 checks grid 297 and is invalid
+Thread 8 checks grid 298 and is invalid
+Thread 8 checks grid 299 and is invalid
+Thread 8 checks grid 300 and is invalid
+Thread 8 checks grid 301 and is invalid
+Thread 8 checks grid 302 and is invalid
+Thread 8 checks grid 303 and is invalid
+Thread 8 checks grid 304 and is invalid
+Thread 8 checks grid 305 and is invalid
+Thread 8 checks grid 306 and is invalid
+Thread 8 checks grid 307 and is invalid
+Thread 8 checks grid 308 and is invalid
+Thread 8 checks grid 309 and is invalid
+Thread 8 checks grid 310 and is invalid
+Thread 8 checks grid 311 and is invalid
+Thread 8 checks grid 312 and is invalid
+Thread 8 checks grid 313 and is invalid
+Thread 8 checks grid 314 and is invalid
+Thread 8 checks grid 315 and is invalid
+Thread 8 checks grid 316 and is invalid
+Thread 8 checks grid 317 and is invalid
+Thread 8 checks grid 318 and is invalid
+Thread 8 checks grid 319 and is invalid
+Thread 8 checks grid 320 and is invalid
+Thread 8 checks grid 321 and is invalid
+Thread 8 checks grid 322 and is invalid
+Thread 8 checks grid 323 and is invalid
+Thread 8 checks grid 324 and is invalid
+Sudoku is invalid
+Total time taken is 767.285
+mixed:
+Thread 0 checks row 1 and is invalid
+Thread 1 checks row 2 and is invalid
+Thread 2 checks row 3 and is invalid
+Thread 3 checks row 4 and is invalid
+Thread 4 checks row 5 and is invalid
+Thread 5 checks row 6 and is invalid
+Thread 6 checks row 7 and is invalid
+Thread 7 checks row 8 and is invalid
+Thread 0 checks row 9 and is invalid
+Thread 1 checks row 10 and is invalid
+Thread 2 checks row 11 and is invalid
+Thread 3 checks row 12 and is invalid
+Thread 4 checks row 13 and is invalid
+Thread 5 checks row 14 and is invalid
+Thread 6 checks row 15 and is invalid
+Thread 7 checks row 16 and is invalid
+Thread 0 checks row 17 and is invalid
+Thread 1 checks row 18 and is invalid
+Thread 2 checks row 19 and is invalid
+Thread 3 checks row 20 and is invalid
+Thread 4 checks row 21 and is invalid
+Thread 5 checks row 22 and is invalid
+Thread 6 checks row 23 and is invalid
+Thread 7 checks row 24 and is invalid
+Thread 0 checks row 25 and is invalid
+Thread 1 checks row 26 and is invalid
+Thread 2 checks row 27 and is invalid
+Thread 3 checks row 28 and is invalid
+Thread 4 checks row 29 and is invalid
+Thread 5 checks row 30 and is invalid
+Thread 6 checks row 31 and is invalid
+Thread 7 checks row 32 and is invalid
+Thread 0 checks row 33 and is invalid
+Thread 1 checks row 34 and is invalid
+Thread 2 checks row 35 and is invalid
+Thread 3 checks row 36 and is invalid
+Thread 4 checks row 37 and is invalid
+Thread 5 checks row 38 and is invalid
+Thread 6 checks row 39 and is invalid
+Thread 7 checks row 40 and is invalid
+Thread 0 checks row 41 and is invalid
+Thread 1 checks row 42 and is invalid
+Thread 2 checks row 43 and is invalid
+Thread 3 checks row 44 and is invalid
+Thread 4 checks row 45 and is invalid
+Thread 5 checks row 46 and is invalid
+Thread 6 checks row 47 and is invalid
+Thread 7 checks row 48 and is invalid
+Thread 0 checks row 49 and is invalid
+Thread 1 checks row 50 and is invalid
+Thread 2 checks row 51 and is invalid
+Thread 3 checks row 52 and is invalid
+Thread 4 checks row 53 and is invalid
+Thread 5 checks row 54 and is invalid
+Thread 6 checks row 55 and is invalid
+Thread 7 checks row 56 and is invalid
+Thread 0 checks row 57 and is invalid
+Thread 1 checks row 58 and is invalid
+Thread 2 checks row 59 and is invalid
+Thread 3 checks row 60 and is invalid
+Thread 4 checks row 61 and is invalid
+Thread 5 checks row 62 and is invalid
+Thread 6 checks row 63 and is invalid
+Thread 7 checks row 64 and is invalid
+Thread 0 checks row 65 and is invalid
+Thread 1 checks row 66 and is invalid
+Thread 2 checks row 67 and is invalid
+Thread 3 checks row 68 and is invalid
+Thread 4 checks row 69 and is invalid
+Thread 5 checks row 70 and is invalid
+Thread 6 checks row 71 and is invalid
+Thread 7 checks row 72 and is invalid
+Thread 0 checks row 73 and is invalid
+Thread 1 checks row 74 and is invalid
+Thread 2 checks row 75 and is invalid
+Thread 3 checks row 76 and is invalid
+Thread 4 checks row 77 and is invalid
+Thread 5 checks row 78 and is invalid
+Thread 6 checks row 79 and is invalid
+Thread 7 checks row 80 and is invalid
+Thread 0 checks row 81 and is invalid
+Thread 1 checks row 82 and is invalid
+Thread 2 checks row 83 and is invalid
+Thread 3 checks row 84 and is invalid
+Thread 4 checks row 85 and is invalid
+Thread 5 checks row 86 and is invalid
+Thread 6 checks row 87 and is invalid
+Thread 7 checks row 88 and is invalid
+Thread 0 checks row 89 and is invalid
+Thread 1 checks row 90 and is invalid
+Thread 2 checks row 91 and is invalid
+Thread 3 checks row 92 and is invalid
+Thread 4 checks row 93 and is invalid
+Thread 5 checks row 94 and is invalid
+Thread 6 checks row 95 and is invalid
+Thread 7 checks row 96 and is invalid
+Thread 0 checks row 97 and is invalid
+Thread 1 checks row 98 and is invalid
+Thread 2 checks row 99 and is invalid
+Thread 3 checks row 100 and is invalid
+Thread 4 checks row 101 and is invalid
+Thread 5 checks row 102 and is invalid
+Thread 6 checks row 103 and is invalid
+Thread 7 checks row 104 and is invalid
+Thread 0 checks row 105 and is invalid
+Thread 1 checks row 106 and is invalid
+Thread 2 checks row 107 and is invalid
+Thread 3 checks row 108 and is invalid
+Thread 4 checks row 109 and is invalid
+Thread 5 checks row 110 and is invalid
+Thread 6 checks row 111 and is invalid
+Thread 7 checks row 112 and is invalid
+Thread 0 checks row 113 and is invalid
+Thread 1 checks row 114 and is invalid
+Thread 2 checks row 115 and is invalid
+Thread 3 checks row 116 and is invalid
+Thread 4 checks row 117 and is invalid
+Thread 5 checks row 118 and is invalid
+Thread 6 checks row 119 and is invalid
+Thread 7 checks row 120 and is invalid
+Thread 0 checks row 121 and is invalid
+Thread 1 checks row 122 and is invalid
+Thread 2 checks row 123 and is invalid
+Thread 3 checks row 124 and is invalid
+Thread 4 checks row 125 and is invalid
+Thread 5 checks row 126 and is invalid
+Thread 6 checks row 127 and is invalid
+Thread 7 checks row 128 and is invalid
+Thread 0 checks row 129 and is invalid
+Thread 1 checks row 130 and is invalid
+Thread 2 checks row 131 and is invalid
+Thread 3 checks row 132 and is invalid
+Thread 4 checks row 133 and is invalid
+Thread 5 checks row 134 and is invalid
+Thread 6 checks row 135 and is invalid
+Thread 7 checks row 136 and is invalid
+Thread 0 checks row 137 and is invalid
+Thread 1 checks row 138 and is invalid
+Thread 2 checks row 139 and is invalid
+Thread 3 checks row 140 and is invalid
+Thread 4 checks row 141 and is invalid
+Thread 5 checks row 142 and is invalid
+Thread 6 checks row 143 and is invalid
+Thread 7 checks row 144 and is invalid
+Thread 0 checks row 145 and is invalid
+Thread 1 checks row 146 and is invalid
+Thread 2 checks row 147 and is invalid
+Thread 3 checks row 148 and is invalid
+Thread 4 checks row 149 and is invalid
+Thread 5 checks row 150 and is invalid
+Thread 6 checks row 151 and is invalid
+Thread 7 checks row 152 and is invalid
+Thread 0 checks row 153 and is invalid
+Thread 1 checks row 154 and is invalid
+Thread 2 checks row 155 and is invalid
+Thread 3 checks row 156 and is invalid
+Thread 4 checks row 157 and is invalid
+Thread 5 checks row 158 and is invalid
+Thread 6 checks row 159 and is invalid
+Thread 7 checks row 160 and is invalid
+Thread 0 checks row 161 and is invalid
+Thread 1 checks row 162 and is invalid
+Thread 2 checks row 163 and is invalid
+Thread 3 checks row 164 and is invalid
+Thread 4 checks row 165 and is invalid
+Thread 5 checks row 166 and is invalid
+Thread 6 checks row 167 and is invalid
+Thread 7 checks row 168 and is invalid
+Thread 0 checks row 169 and is invalid
+Thread 1 checks row 170 and is invalid
+Thread 2 checks row 171 and is invalid
+Thread 3 checks row 172 and is invalid
+Thread 4 checks row 173 and is invalid
+Thread 5 checks row 174 and is invalid
+Thread 6 checks row 175 and is invalid
+Thread 7 checks row 176 and is invalid
+Thread 0 checks row 177 and is invalid
+Thread 1 checks row 178 and is invalid
+Thread 2 checks row 179 and is invalid
+Thread 3 checks row 180 and is invalid
+Thread 4 checks row 181 and is invalid
+Thread 5 checks row 182 and is invalid
+Thread 6 checks row 183 and is invalid
+Thread 7 checks row 184 and is invalid
+Thread 0 checks row 185 and is invalid
+Thread 1 checks row 186 and is invalid
+Thread 2 checks row 187 and is invalid
+Thread 3 checks row 188 and is invalid
+Thread 4 checks row 189 and is invalid
+Thread 5 checks row 190 and is invalid
+Thread 6 checks row 191 and is invalid
+Thread 7 checks row 192 and is invalid
+Thread 0 checks row 193 and is invalid
+Thread 1 checks row 194 and is invalid
+Thread 2 checks row 195 and is invalid
+Thread 3 checks row 196 and is invalid
+Thread 4 checks row 197 and is invalid
+Thread 5 checks row 198 and is invalid
+Thread 6 checks row 199 and is invalid
+Thread 7 checks row 200 and is invalid
+Thread 0 checks row 201 and is invalid
+Thread 1 checks row 202 and is invalid
+Thread 2 checks row 203 and is invalid
+Thread 3 checks row 204 and is invalid
+Thread 4 checks row 205 and is invalid
+Thread 5 checks row 206 and is invalid
+Thread 6 checks row 207 and is invalid
+Thread 7 checks row 208 and is invalid
+Thread 0 checks row 209 and is invalid
+Thread 1 checks row 210 and is invalid
+Thread 2 checks row 211 and is invalid
+Thread 3 checks row 212 and is invalid
+Thread 4 checks row 213 and is invalid
+Thread 5 checks row 214 and is invalid
+Thread 6 checks row 215 and is invalid
+Thread 7 checks row 216 and is invalid
+Thread 0 checks row 217 and is invalid
+Thread 1 checks row 218 and is invalid
+Thread 2 checks row 219 and is invalid
+Thread 3 checks row 220 and is invalid
+Thread 4 checks row 221 and is invalid
+Thread 5 checks row 222 and is invalid
+Thread 6 checks row 223 and is invalid
+Thread 7 checks row 224 and is invalid
+Thread 0 checks row 225 and is invalid
+Thread 1 checks row 226 and is invalid
+Thread 2 checks row 227 and is invalid
+Thread 3 checks row 228 and is invalid
+Thread 4 checks row 229 and is invalid
+Thread 5 checks row 230 and is invalid
+Thread 6 checks row 231 and is invalid
+Thread 7 checks row 232 and is invalid
+Thread 0 checks row 233 and is invalid
+Thread 1 checks row 234 and is invalid
+Thread 2 checks row 235 and is invalid
+Thread 3 checks row 236 and is invalid
+Thread 4 checks row 237 and is invalid
+Thread 5 checks row 238 and is invalid
+Thread 6 checks row 239 and is invalid
+Thread 7 checks row 240 and is invalid
+Thread 0 checks row 241 and is invalid
+Thread 1 checks row 242 and is invalid
+Thread 2 checks row 243 and is invalid
+Thread 3 checks row 244 and is invalid
+Thread 4 checks row 245 and is invalid
+Thread 5 checks row 246 and is invalid
+Thread 6 checks row 247 and is invalid
+Thread 7 checks row 248 and is invalid
+Thread 0 checks row 249 and is invalid
+Thread 1 checks row 250 and is invalid
+Thread 2 checks row 251 and is invalid
+Thread 3 checks row 252 and is invalid
+Thread 4 checks row 253 and is invalid
+Thread 5 checks row 254 and is invalid
+Thread 6 checks row 255 and is invalid
+Thread 7 checks row 256 and is invalid
+Thread 0 checks row 257 and is invalid
+Thread 1 checks row 258 and is invalid
+Thread 2 checks row 259 and is invalid
+Thread 3 checks row 260 and is invalid
+Thread 4 checks row 261 and is invalid
+Thread 5 checks row 262 and is invalid
+Thread 6 checks row 263 and is invalid
+Thread 7 checks row 264 and is invalid
+Thread 0 checks row 265 and is invalid
+Thread 1 checks row 266 and is invalid
+Thread 2 checks row 267 and is invalid
+Thread 3 checks row 268 and is invalid
+Thread 4 checks row 269 and is invalid
+Thread 5 checks row 270 and is invalid
+Thread 6 checks row 271 and is invalid
+Thread 7 checks row 272 and is invalid
+Thread 0 checks row 273 and is invalid
+Thread 1 checks row 274 and is invalid
+Thread 2 checks row 275 and is invalid
+Thread 3 checks row 276 and is invalid
+Thread 4 checks row 277 and is invalid
+Thread 5 checks row 278 and is invalid
+Thread 6 checks row 279 and is invalid
+Thread 7 checks row 280 and is invalid
+Thread 0 checks row 281 and is invalid
+Thread 1 checks row 282 and is invalid
+Thread 2 checks row 283 and is invalid
+Thread 3 checks row 284 and is invalid
+Thread 4 checks row 285 and is invalid
+Thread 5 checks row 286 and is invalid
+Thread 6 checks row 287 and is invalid
+Thread 7 checks row 288 and is invalid
+Thread 0 checks row 289 and is invalid
+Thread 1 checks row 290 and is invalid
+Thread 2 checks row 291 and is invalid
+Thread 3 checks row 292 and is invalid
+Thread 4 checks row 293 and is invalid
+Thread 5 checks row 294 and is invalid
+Thread 6 checks row 295 and is invalid
+Thread 7 checks row 296 and is invalid
+Thread 0 checks row 297 and is invalid
+Thread 1 checks row 298 and is invalid
+Thread 2 checks row 299 and is invalid
+Thread 3 checks row 300 and is invalid
+Thread 4 checks row 301 and is invalid
+Thread 5 checks row 302 and is invalid
+Thread 6 checks row 303 and is invalid
+Thread 7 checks row 304 and is invalid
+Thread 0 checks row 305 and is invalid
+Thread 1 checks row 306 and is invalid
+Thread 2 checks row 307 and is invalid
+Thread 3 checks row 308 and is invalid
+Thread 4 checks row 309 and is invalid
+Thread 5 checks row 310 and is invalid
+Thread 6 checks row 311 and is invalid
+Thread 7 checks row 312 and is invalid
+Thread 0 checks row 313 and is invalid
+Thread 1 checks row 314 and is invalid
+Thread 2 checks row 315 and is invalid
+Thread 3 checks row 316 and is invalid
+Thread 4 checks row 317 and is invalid
+Thread 5 checks row 318 and is invalid
+Thread 6 checks row 319 and is invalid
+Thread 7 checks row 320 and is invalid
+Thread 0 checks row 321 and is invalid
+Thread 1 checks row 322 and is invalid
+Thread 2 checks row 323 and is invalid
+Thread 3 checks row 324 and is invalid
+Thread 0 checks col 1 and is invalid
+Thread 1 checks col 2 and is invalid
+Thread 2 checks col 3 and is invalid
+Thread 3 checks col 4 and is invalid
+Thread 4 checks col 5 and is invalid
+Thread 5 checks col 6 and is invalid
+Thread 6 checks col 7 and is invalid
+Thread 7 checks col 8 and is invalid
+Thread 0 checks col 9 and is invalid
+Thread 1 checks col 10 and is invalid
+Thread 2 checks col 11 and is invalid
+Thread 3 checks col 12 and is invalid
+Thread 4 checks col 13 and is invalid
+Thread 5 checks col 14 and is invalid
+Thread 6 checks col 15 and is invalid
+Thread 7 checks col 16 and is invalid
+Thread 0 checks col 17 and is invalid
+Thread 1 checks col 18 and is invalid
+Thread 2 checks col 19 and is invalid
+Thread 3 checks col 20 and is invalid
+Thread 4 checks col 21 and is invalid
+Thread 5 checks col 22 and is invalid
+Thread 6 checks col 23 and is invalid
+Thread 7 checks col 24 and is invalid
+Thread 0 checks col 25 and is invalid
+Thread 1 checks col 26 and is invalid
+Thread 2 checks col 27 and is invalid
+Thread 3 checks col 28 and is invalid
+Thread 4 checks col 29 and is invalid
+Thread 5 checks col 30 and is invalid
+Thread 6 checks col 31 and is invalid
+Thread 7 checks col 32 and is invalid
+Thread 0 checks col 33 and is invalid
+Thread 1 checks col 34 and is invalid
+Thread 2 checks col 35 and is invalid
+Thread 3 checks col 36 and is invalid
+Thread 4 checks col 37 and is invalid
+Thread 5 checks col 38 and is invalid
+Thread 6 checks col 39 and is invalid
+Thread 7 checks col 40 and is invalid
+Thread 0 checks col 41 and is invalid
+Thread 1 checks col 42 and is invalid
+Thread 2 checks col 43 and is invalid
+Thread 3 checks col 44 and is invalid
+Thread 4 checks col 45 and is invalid
+Thread 5 checks col 46 and is invalid
+Thread 6 checks col 47 and is invalid
+Thread 7 checks col 48 and is invalid
+Thread 0 checks col 49 and is invalid
+Thread 1 checks col 50 and is invalid
+Thread 2 checks col 51 and is invalid
+Thread 3 checks col 52 and is invalid
+Thread 4 checks col 53 and is invalid
+Thread 5 checks col 54 and is invalid
+Thread 6 checks col 55 and is invalid
+Thread 7 checks col 56 and is invalid
+Thread 0 checks col 57 and is invalid
+Thread 1 checks col 58 and is invalid
+Thread 2 checks col 59 and is invalid
+Thread 3 checks col 60 and is invalid
+Thread 4 checks col 61 and is invalid
+Thread 5 checks col 62 and is invalid
+Thread 6 checks col 63 and is invalid
+Thread 7 checks col 64 and is invalid
+Thread 0 checks col 65 and is invalid
+Thread 1 checks col 66 and is invalid
+Thread 2 checks col 67 and is invalid
+Thread 3 checks col 68 and is invalid
+Thread 4 checks col 69 and is invalid
+Thread 5 checks col 70 and is invalid
+Thread 6 checks col 71 and is invalid
+Thread 7 checks col 72 and is invalid
+Thread 0 checks col 73 and is invalid
+Thread 1 checks col 74 and is invalid
+Thread 2 checks col 75 and is invalid
+Thread 3 checks col 76 and is invalid
+Thread 4 checks col 77 and is invalid
+Thread 5 checks col 78 and is invalid
+Thread 6 checks col 79 and is invalid
+Thread 7 checks col 80 and is invalid
+Thread 0 checks col 81 and is invalid
+Thread 1 checks col 82 and is invalid
+Thread 2 checks col 83 and is invalid
+Thread 3 checks col 84 and is invalid
+Thread 4 checks col 85 and is invalid
+Thread 5 checks col 86 and is invalid
+Thread 6 checks col 87 and is invalid
+Thread 7 checks col 88 and is invalid
+Thread 0 checks col 89 and is invalid
+Thread 1 checks col 90 and is invalid
+Thread 2 checks col 91 and is invalid
+Thread 3 checks col 92 and is invalid
+Thread 4 checks col 93 and is invalid
+Thread 5 checks col 94 and is invalid
+Thread 6 checks col 95 and is invalid
+Thread 7 checks col 96 and is invalid
+Thread 0 checks col 97 and is invalid
+Thread 1 checks col 98 and is invalid
+Thread 2 checks col 99 and is invalid
+Thread 3 checks col 100 and is invalid
+Thread 4 checks col 101 and is invalid
+Thread 5 checks col 102 and is invalid
+Thread 6 checks col 103 and is invalid
+Thread 7 checks col 104 and is invalid
+Thread 0 checks col 105 and is invalid
+Thread 1 checks col 106 and is invalid
+Thread 2 checks col 107 and is invalid
+Thread 3 checks col 108 and is invalid
+Thread 4 checks col 109 and is invalid
+Thread 5 checks col 110 and is invalid
+Thread 6 checks col 111 and is invalid
+Thread 7 checks col 112 and is invalid
+Thread 0 checks col 113 and is invalid
+Thread 1 checks col 114 and is invalid
+Thread 2 checks col 115 and is invalid
+Thread 3 checks col 116 and is invalid
+Thread 4 checks col 117 and is invalid
+Thread 5 checks col 118 and is invalid
+Thread 6 checks col 119 and is invalid
+Thread 7 checks col 120 and is invalid
+Thread 0 checks col 121 and is invalid
+Thread 1 checks col 122 and is invalid
+Thread 2 checks col 123 and is invalid
+Thread 3 checks col 124 and is invalid
+Thread 4 checks col 125 and is invalid
+Thread 5 checks col 126 and is invalid
+Thread 6 checks col 127 and is invalid
+Thread 7 checks col 128 and is invalid
+Thread 0 checks col 129 and is invalid
+Thread 1 checks col 130 and is invalid
+Thread 2 checks col 131 and is invalid
+Thread 3 checks col 132 and is invalid
+Thread 4 checks col 133 and is invalid
+Thread 5 checks col 134 and is invalid
+Thread 6 checks col 135 and is invalid
+Thread 7 checks col 136 and is invalid
+Thread 0 checks col 137 and is invalid
+Thread 1 checks col 138 and is invalid
+Thread 2 checks col 139 and is invalid
+Thread 3 checks col 140 and is invalid
+Thread 4 checks col 141 and is invalid
+Thread 5 checks col 142 and is invalid
+Thread 6 checks col 143 and is invalid
+Thread 7 checks col 144 and is invalid
+Thread 0 checks col 145 and is invalid
+Thread 1 checks col 146 and is invalid
+Thread 2 checks col 147 and is invalid
+Thread 3 checks col 148 and is invalid
+Thread 4 checks col 149 and is invalid
+Thread 5 checks col 150 and is invalid
+Thread 6 checks col 151 and is invalid
+Thread 7 checks col 152 and is invalid
+Thread 0 checks col 153 and is invalid
+Thread 1 checks col 154 and is invalid
+Thread 2 checks col 155 and is invalid
+Thread 3 checks col 156 and is invalid
+Thread 4 checks col 157 and is invalid
+Thread 5 checks col 158 and is invalid
+Thread 6 checks col 159 and is invalid
+Thread 7 checks col 160 and is invalid
+Thread 0 checks col 161 and is invalid
+Thread 1 checks col 162 and is invalid
+Thread 2 checks col 163 and is invalid
+Thread 3 checks col 164 and is invalid
+Thread 4 checks col 165 and is invalid
+Thread 5 checks col 166 and is invalid
+Thread 6 checks col 167 and is invalid
+Thread 7 checks col 168 and is invalid
+Thread 0 checks col 169 and is invalid
+Thread 1 checks col 170 and is invalid
+Thread 2 checks col 171 and is invalid
+Thread 3 checks col 172 and is invalid
+Thread 4 checks col 173 and is invalid
+Thread 5 checks col 174 and is invalid
+Thread 6 checks col 175 and is invalid
+Thread 7 checks col 176 and is invalid
+Thread 0 checks col 177 and is invalid
+Thread 1 checks col 178 and is invalid
+Thread 2 checks col 179 and is invalid
+Thread 3 checks col 180 and is invalid
+Thread 4 checks col 181 and is invalid
+Thread 5 checks col 182 and is invalid
+Thread 6 checks col 183 and is invalid
+Thread 7 checks col 184 and is invalid
+Thread 0 checks col 185 and is invalid
+Thread 1 checks col 186 and is invalid
+Thread 2 checks col 187 and is invalid
+Thread 3 checks col 188 and is invalid
+Thread 4 checks col 189 and is invalid
+Thread 5 checks col 190 and is invalid
+Thread 6 checks col 191 and is invalid
+Thread 7 checks col 192 and is invalid
+Thread 0 checks col 193 and is invalid
+Thread 1 checks col 194 and is invalid
+Thread 2 checks col 195 and is invalid
+Thread 3 checks col 196 and is invalid
+Thread 4 checks col 197 and is invalid
+Thread 5 checks col 198 and is invalid
+Thread 6 checks col 199 and is invalid
+Thread 7 checks col 200 and is invalid
+Thread 0 checks col 201 and is invalid
+Thread 1 checks col 202 and is invalid
+Thread 2 checks col 203 and is invalid
+Thread 3 checks col 204 and is invalid
+Thread 4 checks col 205 and is invalid
+Thread 5 checks col 206 and is invalid
+Thread 6 checks col 207 and is invalid
+Thread 7 checks col 208 and is invalid
+Thread 0 checks col 209 and is invalid
+Thread 1 checks col 210 and is invalid
+Thread 2 checks col 211 and is invalid
+Thread 3 checks col 212 and is invalid
+Thread 4 checks col 213 and is invalid
+Thread 5 checks col 214 and is invalid
+Thread 6 checks col 215 and is invalid
+Thread 7 checks col 216 and is invalid
+Thread 0 checks col 217 and is invalid
+Thread 1 checks col 218 and is invalid
+Thread 2 checks col 219 and is invalid
+Thread 3 checks col 220 and is invalid
+Thread 4 checks col 221 and is invalid
+Thread 5 checks col 222 and is invalid
+Thread 6 checks col 223 and is invalid
+Thread 7 checks col 224 and is invalid
+Thread 0 checks col 225 and is invalid
+Thread 1 checks col 226 and is invalid
+Thread 2 checks col 227 and is invalid
+Thread 3 checks col 228 and is invalid
+Thread 4 checks col 229 and is invalid
+Thread 5 checks col 230 and is invalid
+Thread 6 checks col 231 and is invalid
+Thread 7 checks col 232 and is invalid
+Thread 0 checks col 233 and is invalid
+Thread 1 checks col 234 and is invalid
+Thread 2 checks col 235 and is invalid
+Thread 3 checks col 236 and is invalid
+Thread 4 checks col 237 and is invalid
+Thread 5 checks col 238 and is invalid
+Thread 6 checks col 239 and is invalid
+Thread 7 checks col 240 and is invalid
+Thread 0 checks col 241 and is invalid
+Thread 1 checks col 242 and is invalid
+Thread 2 checks col 243 and is invalid
+Thread 3 checks col 244 and is invalid
+Thread 4 checks col 245 and is invalid
+Thread 5 checks col 246 and is invalid
+Thread 6 checks col 247 and is invalid
+Thread 7 checks col 248 and is invalid
+Thread 0 checks col 249 and is invalid
+Thread 1 checks col 250 and is invalid
+Thread 2 checks col 251 and is invalid
+Thread 3 checks col 252 and is invalid
+Thread 4 checks col 253 and is invalid
+Thread 5 checks col 254 and is invalid
+Thread 6 checks col 255 and is invalid
+Thread 7 checks col 256 and is invalid
+Thread 0 checks col 257 and is invalid
+Thread 1 checks col 258 and is invalid
+Thread 2 checks col 259 and is invalid
+Thread 3 checks col 260 and is invalid
+Thread 4 checks col 261 and is invalid
+Thread 5 checks col 262 and is invalid
+Thread 6 checks col 263 and is invalid
+Thread 7 checks col 264 and is invalid
+Thread 0 checks col 265 and is invalid
+Thread 1 checks col 266 and is invalid
+Thread 2 checks col 267 and is invalid
+Thread 3 checks col 268 and is invalid
+Thread 4 checks col 269 and is invalid
+Thread 5 checks col 270 and is invalid
+Thread 6 checks col 271 and is invalid
+Thread 7 checks col 272 and is invalid
+Thread 0 checks col 273 and is invalid
+Thread 1 checks col 274 and is invalid
+Thread 2 checks col 275 and is invalid
+Thread 3 checks col 276 and is invalid
+Thread 4 checks col 277 and is invalid
+Thread 5 checks col 278 and is invalid
+Thread 6 checks col 279 and is invalid
+Thread 7 checks col 280 and is invalid
+Thread 0 checks col 281 and is invalid
+Thread 1 checks col 282 and is invalid
+Thread 2 checks col 283 and is invalid
+Thread 3 checks col 284 and is invalid
+Thread 4 checks col 285 and is invalid
+Thread 5 checks col 286 and is invalid
+Thread 6 checks col 287 and is invalid
+Thread 7 checks col 288 and is invalid
+Thread 0 checks col 289 and is invalid
+Thread 1 checks col 290 and is invalid
+Thread 2 checks col 291 and is invalid
+Thread 3 checks col 292 and is invalid
+Thread 4 checks col 293 and is invalid
+Thread 5 checks col 294 and is invalid
+Thread 6 checks col 295 and is invalid
+Thread 7 checks col 296 and is invalid
+Thread 0 checks col 297 and is invalid
+Thread 1 checks col 298 and is invalid
+Thread 2 checks col 299 and is invalid
+Thread 3 checks col 300 and is invalid
+Thread 4 checks col 301 and is invalid
+Thread 5 checks col 302 and is invalid
+Thread 6 checks col 303 and is invalid
+Thread 7 checks col 304 and is invalid
+Thread 0 checks col 305 and is invalid
+Thread 1 checks col 306 and is invalid
+Thread 2 checks col 307 and is invalid
+Thread 3 checks col 308 and is invalid
+Thread 4 checks col 309 and is invalid
+Thread 5 checks col 310 and is invalid
+Thread 6 checks col 311 and is invalid
+Thread 7 checks col 312 and is invalid
+Thread 0 checks col 313 and is invalid
+Thread 1 checks col 314 and is invalid
+Thread 2 checks col 315 and is invalid
+Thread 3 checks col 316 and is invalid
+Thread 4 checks col 317 and is invalid
+Thread 5 checks col 318 and is invalid
+Thread 6 checks col 319 and is invalid
+Thread 7 checks col 320 and is invalid
+Thread 0 checks col 321 and is invalid
+Thread 1 checks col 322 and is invalid
+Thread 2 checks col 323 and is invalid
+Thread 3 checks col 324 and is invalid
+Thread 0 checks grid 1 and is invalid
+Thread 1 checks grid 2 and is invalid
+Thread 2 checks grid 3 and is invalid
+Thread 3 checks grid 4 and is invalid
+Thread 4 checks grid 5 and is invalid
+Thread 5 checks grid 6 and is invalid
+Thread 6 checks grid 7 and is invalid
+Thread 7 checks grid 8 and is invalid
+Thread 0 checks grid 9 and is invalid
+Thread 1 checks grid 10 and is invalid
+Thread 2 checks grid 11 and is invalid
+Thread 3 checks grid 12 and is invalid
+Thread 4 checks grid 13 and is invalid
+Thread 5 checks grid 14 and is invalid
+Thread 6 checks grid 15 and is invalid
+Thread 7 checks grid 16 and is invalid
+Thread 0 checks grid 17 and is invalid
+Thread 1 checks grid 18 and is invalid
+Thread 2 checks grid 19 and is invalid
+Thread 3 checks grid 20 and is invalid
+Thread 4 checks grid 21 and is invalid
+Thread 5 checks grid 22 and is invalid
+Thread 6 checks grid 23 and is invalid
+Thread 7 checks grid 24 and is invalid
+Thread 0 checks grid 25 and is invalid
+Thread 1 checks grid 26 and is invalid
+Thread 2 checks grid 27 and is invalid
+Thread 3 checks grid 28 and is invalid
+Thread 4 checks grid 29 and is invalid
+Thread 5 checks grid 30 and is invalid
+Thread 6 checks grid 31 and is invalid
+Thread 7 checks grid 32 and is invalid
+Thread 0 checks grid 33 and is invalid
+Thread 1 checks grid 34 and is invalid
+Thread 2 checks grid 35 and is invalid
+Thread 3 checks grid 36 and is invalid
+Thread 4 checks grid 37 and is invalid
+Thread 5 checks grid 38 and is invalid
+Thread 6 checks grid 39 and is invalid
+Thread 7 checks grid 40 and is invalid
+Thread 0 checks grid 41 and is invalid
+Thread 1 checks grid 42 and is invalid
+Thread 2 checks grid 43 and is invalid
+Thread 3 checks grid 44 and is invalid
+Thread 4 checks grid 45 and is invalid
+Thread 5 checks grid 46 and is invalid
+Thread 6 checks grid 47 and is invalid
+Thread 7 checks grid 48 and is invalid
+Thread 0 checks grid 49 and is invalid
+Thread 1 checks grid 50 and is invalid
+Thread 2 checks grid 51 and is invalid
+Thread 3 checks grid 52 and is invalid
+Thread 4 checks grid 53 and is invalid
+Thread 5 checks grid 54 and is invalid
+Thread 6 checks grid 55 and is invalid
+Thread 7 checks grid 56 and is invalid
+Thread 0 checks grid 57 and is invalid
+Thread 1 checks grid 58 and is invalid
+Thread 2 checks grid 59 and is invalid
+Thread 3 checks grid 60 and is invalid
+Thread 4 checks grid 61 and is invalid
+Thread 5 checks grid 62 and is invalid
+Thread 6 checks grid 63 and is invalid
+Thread 7 checks grid 64 and is invalid
+Thread 0 checks grid 65 and is invalid
+Thread 1 checks grid 66 and is invalid
+Thread 2 checks grid 67 and is invalid
+Thread 3 checks grid 68 and is invalid
+Thread 4 checks grid 69 and is invalid
+Thread 5 checks grid 70 and is invalid
+Thread 6 checks grid 71 and is invalid
+Thread 7 checks grid 72 and is invalid
+Thread 0 checks grid 73 and is invalid
+Thread 1 checks grid 74 and is invalid
+Thread 2 checks grid 75 and is invalid
+Thread 3 checks grid 76 and is invalid
+Thread 4 checks grid 77 and is invalid
+Thread 5 checks grid 78 and is invalid
+Thread 6 checks grid 79 and is invalid
+Thread 7 checks grid 80 and is invalid
+Thread 0 checks grid 81 and is invalid
+Thread 1 checks grid 82 and is invalid
+Thread 2 checks grid 83 and is invalid
+Thread 3 checks grid 84 and is invalid
+Thread 4 checks grid 85 and is invalid
+Thread 5 checks grid 86 and is invalid
+Thread 6 checks grid 87 and is invalid
+Thread 7 checks grid 88 and is invalid
+Thread 0 checks grid 89 and is invalid
+Thread 1 checks grid 90 and is invalid
+Thread 2 checks grid 91 and is invalid
+Thread 3 checks grid 92 and is invalid
+Thread 4 checks grid 93 and is invalid
+Thread 5 checks grid 94 and is invalid
+Thread 6 checks grid 95 and is invalid
+Thread 7 checks grid 96 and is invalid
+Thread 0 checks grid 97 and is invalid
+Thread 1 checks grid 98 and is invalid
+Thread 2 checks grid 99 and is invalid
+Thread 3 checks grid 100 and is invalid
+Thread 4 checks grid 101 and is invalid
+Thread 5 checks grid 102 and is invalid
+Thread 6 checks grid 103 and is invalid
+Thread 7 checks grid 104 and is invalid
+Thread 0 checks grid 105 and is invalid
+Thread 1 checks grid 106 and is invalid
+Thread 2 checks grid 107 and is invalid
+Thread 3 checks grid 108 and is invalid
+Thread 4 checks grid 109 and is invalid
+Thread 5 checks grid 110 and is invalid
+Thread 6 checks grid 111 and is invalid
+Thread 7 checks grid 112 and is invalid
+Thread 0 checks grid 113 and is invalid
+Thread 1 checks grid 114 and is invalid
+Thread 2 checks grid 115 and is invalid
+Thread 3 checks grid 116 and is invalid
+Thread 4 checks grid 117 and is invalid
+Thread 5 checks grid 118 and is invalid
+Thread 6 checks grid 119 and is invalid
+Thread 7 checks grid 120 and is invalid
+Thread 0 checks grid 121 and is invalid
+Thread 1 checks grid 122 and is invalid
+Thread 2 checks grid 123 and is invalid
+Thread 3 checks grid 124 and is invalid
+Thread 4 checks grid 125 and is invalid
+Thread 5 checks grid 126 and is invalid
+Thread 6 checks grid 127 and is invalid
+Thread 7 checks grid 128 and is invalid
+Thread 0 checks grid 129 and is invalid
+Thread 1 checks grid 130 and is invalid
+Thread 2 checks grid 131 and is invalid
+Thread 3 checks grid 132 and is invalid
+Thread 4 checks grid 133 and is invalid
+Thread 5 checks grid 134 and is invalid
+Thread 6 checks grid 135 and is invalid
+Thread 7 checks grid 136 and is invalid
+Thread 0 checks grid 137 and is invalid
+Thread 1 checks grid 138 and is invalid
+Thread 2 checks grid 139 and is invalid
+Thread 3 checks grid 140 and is invalid
+Thread 4 checks grid 141 and is invalid
+Thread 5 checks grid 142 and is invalid
+Thread 6 checks grid 143 and is invalid
+Thread 7 checks grid 144 and is invalid
+Thread 0 checks grid 145 and is invalid
+Thread 1 checks grid 146 and is invalid
+Thread 2 checks grid 147 and is invalid
+Thread 3 checks grid 148 and is invalid
+Thread 4 checks grid 149 and is invalid
+Thread 5 checks grid 150 and is invalid
+Thread 6 checks grid 151 and is invalid
+Thread 7 checks grid 152 and is invalid
+Thread 0 checks grid 153 and is invalid
+Thread 1 checks grid 154 and is invalid
+Thread 2 checks grid 155 and is invalid
+Thread 3 checks grid 156 and is invalid
+Thread 4 checks grid 157 and is invalid
+Thread 5 checks grid 158 and is invalid
+Thread 6 checks grid 159 and is invalid
+Thread 7 checks grid 160 and is invalid
+Thread 0 checks grid 161 and is invalid
+Thread 1 checks grid 162 and is invalid
+Thread 2 checks grid 163 and is invalid
+Thread 3 checks grid 164 and is invalid
+Thread 4 checks grid 165 and is invalid
+Thread 5 checks grid 166 and is invalid
+Thread 6 checks grid 167 and is invalid
+Thread 7 checks grid 168 and is invalid
+Thread 0 checks grid 169 and is invalid
+Thread 1 checks grid 170 and is invalid
+Thread 2 checks grid 171 and is invalid
+Thread 3 checks grid 172 and is invalid
+Thread 4 checks grid 173 and is invalid
+Thread 5 checks grid 174 and is invalid
+Thread 6 checks grid 175 and is invalid
+Thread 7 checks grid 176 and is invalid
+Thread 0 checks grid 177 and is invalid
+Thread 1 checks grid 178 and is invalid
+Thread 2 checks grid 179 and is invalid
+Thread 3 checks grid 180 and is invalid
+Thread 4 checks grid 181 and is invalid
+Thread 5 checks grid 182 and is invalid
+Thread 6 checks grid 183 and is invalid
+Thread 7 checks grid 184 and is invalid
+Thread 0 checks grid 185 and is invalid
+Thread 1 checks grid 186 and is invalid
+Thread 2 checks grid 187 and is invalid
+Thread 3 checks grid 188 and is invalid
+Thread 4 checks grid 189 and is invalid
+Thread 5 checks grid 190 and is invalid
+Thread 6 checks grid 191 and is invalid
+Thread 7 checks grid 192 and is invalid
+Thread 0 checks grid 193 and is invalid
+Thread 1 checks grid 194 and is invalid
+Thread 2 checks grid 195 and is invalid
+Thread 3 checks grid 196 and is invalid
+Thread 4 checks grid 197 and is invalid
+Thread 5 checks grid 198 and is invalid
+Thread 6 checks grid 199 and is invalid
+Thread 7 checks grid 200 and is invalid
+Thread 0 checks grid 201 and is invalid
+Thread 1 checks grid 202 and is invalid
+Thread 2 checks grid 203 and is invalid
+Thread 3 checks grid 204 and is invalid
+Thread 4 checks grid 205 and is invalid
+Thread 5 checks grid 206 and is invalid
+Thread 6 checks grid 207 and is invalid
+Thread 7 checks grid 208 and is invalid
+Thread 0 checks grid 209 and is invalid
+Thread 1 checks grid 210 and is invalid
+Thread 2 checks grid 211 and is invalid
+Thread 3 checks grid 212 and is invalid
+Thread 4 checks grid 213 and is invalid
+Thread 5 checks grid 214 and is invalid
+Thread 6 checks grid 215 and is invalid
+Thread 7 checks grid 216 and is invalid
+Thread 0 checks grid 217 and is invalid
+Thread 1 checks grid 218 and is invalid
+Thread 2 checks grid 219 and is invalid
+Thread 3 checks grid 220 and is invalid
+Thread 4 checks grid 221 and is invalid
+Thread 5 checks grid 222 and is invalid
+Thread 6 checks grid 223 and is invalid
+Thread 7 checks grid 224 and is invalid
+Thread 0 checks grid 225 and is invalid
+Thread 1 checks grid 226 and is invalid
+Thread 2 checks grid 227 and is invalid
+Thread 3 checks grid 228 and is invalid
+Thread 4 checks grid 229 and is invalid
+Thread 5 checks grid 230 and is invalid
+Thread 6 checks grid 231 and is invalid
+Thread 7 checks grid 232 and is invalid
+Thread 0 checks grid 233 and is invalid
+Thread 1 checks grid 234 and is invalid
+Thread 2 checks grid 235 and is invalid
+Thread 3 checks grid 236 and is invalid
+Thread 4 checks grid 237 and is invalid
+Thread 5 checks grid 238 and is invalid
+Thread 6 checks grid 239 and is invalid
+Thread 7 checks grid 240 and is invalid
+Thread 0 checks grid 241 and is invalid
+Thread 1 checks grid 242 and is invalid
+Thread 2 checks grid 243 and is invalid
+Thread 3 checks grid 244 and is invalid
+Thread 4 checks grid 245 and is invalid
+Thread 5 checks grid 246 and is invalid
+Thread 6 checks grid 247 and is invalid
+Thread 7 checks grid 248 and is invalid
+Thread 0 checks grid 249 and is invalid
+Thread 1 checks grid 250 and is invalid
+Thread 2 checks grid 251 and is invalid
+Thread 3 checks grid 252 and is invalid
+Thread 4 checks grid 253 and is invalid
+Thread 5 checks grid 254 and is invalid
+Thread 6 checks grid 255 and is invalid
+Thread 7 checks grid 256 and is invalid
+Thread 0 checks grid 257 and is invalid
+Thread 1 checks grid 258 and is invalid
+Thread 2 checks grid 259 and is invalid
+Thread 3 checks grid 260 and is invalid
+Thread 4 checks grid 261 and is invalid
+Thread 5 checks grid 262 and is invalid
+Thread 6 checks grid 263 and is invalid
+Thread 7 checks grid 264 and is invalid
+Thread 0 checks grid 265 and is invalid
+Thread 1 checks grid 266 and is invalid
+Thread 2 checks grid 267 and is invalid
+Thread 3 checks grid 268 and is invalid
+Thread 4 checks grid 269 and is invalid
+Thread 5 checks grid 270 and is invalid
+Thread 6 checks grid 271 and is invalid
+Thread 7 checks grid 272 and is invalid
+Thread 0 checks grid 273 and is invalid
+Thread 1 checks grid 274 and is invalid
+Thread 2 checks grid 275 and is invalid
+Thread 3 checks grid 276 and is invalid
+Thread 4 checks grid 277 and is invalid
+Thread 5 checks grid 278 and is invalid
+Thread 6 checks grid 279 and is invalid
+Thread 7 checks grid 280 and is invalid
+Thread 0 checks grid 281 and is invalid
+Thread 1 checks grid 282 and is invalid
+Thread 2 checks grid 283 and is invalid
+Thread 3 checks grid 284 and is invalid
+Thread 4 checks grid 285 and is invalid
+Thread 5 checks grid 286 and is invalid
+Thread 6 checks grid 287 and is invalid
+Thread 7 checks grid 288 and is invalid
+Thread 0 checks grid 289 and is invalid
+Thread 1 checks grid 290 and is invalid
+Thread 2 checks grid 291 and is invalid
+Thread 3 checks grid 292 and is invalid
+Thread 4 checks grid 293 and is invalid
+Thread 5 checks grid 294 and is invalid
+Thread 6 checks grid 295 and is invalid
+Thread 7 checks grid 296 and is invalid
+Thread 0 checks grid 297 and is invalid
+Thread 1 checks grid 298 and is invalid
+Thread 2 checks grid 299 and is invalid
+Thread 3 checks grid 300 and is invalid
+Thread 4 checks grid 301 and is invalid
+Thread 5 checks grid 302 and is invalid
+Thread 6 checks grid 303 and is invalid
+Thread 7 checks grid 304 and is invalid
+Thread 0 checks grid 305 and is invalid
+Thread 1 checks grid 306 and is invalid
+Thread 2 checks grid 307 and is invalid
+Thread 3 checks grid 308 and is invalid
+Thread 4 checks grid 309 and is invalid
+Thread 5 checks grid 310 and is invalid
+Thread 6 checks grid 311 and is invalid
+Thread 7 checks grid 312 and is invalid
+Thread 0 checks grid 313 and is invalid
+Thread 1 checks grid 314 and is invalid
+Thread 2 checks grid 315 and is invalid
+Thread 3 checks grid 316 and is invalid
+Thread 4 checks grid 317 and is invalid
+Thread 5 checks grid 318 and is invalid
+Thread 6 checks grid 319 and is invalid
+Thread 7 checks grid 320 and is invalid
+Thread 0 checks grid 321 and is invalid
+Thread 1 checks grid 322 and is invalid
+Thread 2 checks grid 323 and is invalid
+Thread 3 checks grid 324 and is invalid
+Sudoku is invalid
+Total time taken is 542.051

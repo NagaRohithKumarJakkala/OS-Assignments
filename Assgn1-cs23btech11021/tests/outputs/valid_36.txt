@@ -1,0 +1,333 @@
+sequential:
+row 1 is valid
+row 2 is valid
+row 3 is valid
+row 4 is valid
+row 5 is valid
+row 6 is valid
+row 7 is valid
+row 8 is valid
+row 9 is valid
+row 10 is valid
+row 11 is valid
+row 12 is valid
+row 13 is valid
+row 14 is valid
+row 15 is valid
+row 16 is valid
+row 17 is valid
+row 18 is valid
+row 19 is valid
+row 20 is valid
+row 21 is valid
+row 22 is valid
+row 23 is valid
+row 24 is valid
+row 25 is valid
+row 26 is valid
+row 27 is valid
+row 28 is valid
+row 29 is valid
+row 30 is valid
+row 31 is valid
+row 32 is valid
+row 33 is valid
+row 34 is valid
+row 35 is valid
+row 36 is valid
+col 1 is valid
+col 2 is valid
+col 3 is valid
+col 4 is valid
+col 5 is valid
+col 6 is valid
+col 7 is valid
+col 8 is valid
+col 9 is valid
+col 10 is valid
+col 11 is valid
+col 12 is valid
+col 13 is valid
+col 14 is valid
+col 15 is valid
+col 16 is valid
+col 17 is valid
+col 18 is valid
+col 19 is valid
+col 20 is valid
+col 21 is valid
+col 22 is valid
+col 23 is valid
+col 24 is valid
+col 25 is valid
+col 26 is valid
+col 27 is valid
+col 28 is valid
+col 29 is valid
+col 30 is valid
+col 31 is valid
+col 32 is valid
+col 33 is valid
+col 34 is valid
+col 35 is valid
+col 36 is valid
+grid 1 is valid
+grid 2 is valid
+grid 3 is valid
+grid 4 is valid
+grid 5 is valid
+grid 6 is valid
+grid 7 is valid
+grid 8 is valid
+grid 9 is valid
+grid 10 is valid
+grid 11 is valid
+grid 12 is valid
+grid 13 is valid
+grid 14 is valid
+grid 15 is valid
+grid 16 is valid
+grid 17 is valid
+grid 18 is valid
+grid 19 is valid
+grid 20 is valid
+grid 21 is valid
+grid 22 is valid
+grid 23 is valid
+grid 24 is valid
+grid 25 is valid
+grid 26 is valid
+grid 27 is valid
+grid 28 is valid
+grid 29 is valid
+grid 30 is valid
+grid 31 is valid
+grid 32 is valid
+grid 33 is valid
+grid 34 is valid
+grid 35 is valid
+grid 36 is valid
+Sudoku is valid
+Total time taken is 37.738
+chunk:
+Thread 1 checks row 1 and is valid
+Thread 1 checks row 2 and is valid
+Thread 1 checks row 3 and is valid
+Thread 1 checks row 4 and is valid
+Thread 1 checks row 5 and is valid
+Thread 1 checks row 6 and is valid
+Thread 1 checks row 7 and is valid
+Thread 1 checks row 8 and is valid
+Thread 1 checks row 9 and is valid
+Thread 1 checks row 10 and is valid
+Thread 1 checks row 11 and is valid
+Thread 1 checks row 12 and is valid
+Thread 2 checks row 13 and is valid
+Thread 2 checks row 14 and is valid
+Thread 2 checks row 15 and is valid
+Thread 2 checks row 16 and is valid
+Thread 2 checks row 17 and is valid
+Thread 2 checks row 18 and is valid
+Thread 2 checks row 19 and is valid
+Thread 2 checks row 20 and is valid
+Thread 2 checks row 21 and is valid
+Thread 2 checks row 22 and is valid
+Thread 2 checks row 23 and is valid
+Thread 2 checks row 24 and is valid
+Thread 3 checks row 25 and is valid
+Thread 3 checks row 26 and is valid
+Thread 3 checks row 27 and is valid
+Thread 3 checks row 28 and is valid
+Thread 3 checks row 29 and is valid
+Thread 3 checks row 30 and is valid
+Thread 3 checks row 31 and is valid
+Thread 3 checks row 32 and is valid
+Thread 3 checks row 33 and is valid
+Thread 3 checks row 34 and is valid
+Thread 3 checks row 35 and is valid
+Thread 3 checks row 36 and is valid
+Thread 4 checks col 1 and is valid
+Thread 4 checks col 2 and is valid
+Thread 4 checks col 3 and is valid
+Thread 4 checks col 4 and is valid
+Thread 4 checks col 5 and is valid
+Thread 4 checks col 6 and is valid
+Thread 4 checks col 7 and is valid
+Thread 4 checks col 8 and is valid
+Thread 4 checks col 9 and is valid
+Thread 4 checks col 10 and is valid
+Thread 4 checks col 11 and is valid
+Thread 4 checks col 12 and is valid
+Thread 5 checks col 13 and is valid
+Thread 5 checks col 14 and is valid
+Thread 5 checks col 15 and is valid
+Thread 5 checks col 16 and is valid
+Thread 5 checks col 17 and is valid
+Thread 5 checks col 18 and is valid
+Thread 5 checks col 19 and is valid
+Thread 5 checks col 20 and is valid
+Thread 5 checks col 21 and is valid
+Thread 5 checks col 22 and is valid
+Thread 5 checks col 23 and is valid
+Thread 5 checks col 24 and is valid
+Thread 6 checks col 25 and is valid
+Thread 6 checks col 26 and is valid
+Thread 6 checks col 27 and is valid
+Thread 6 checks col 28 and is valid
+Thread 6 checks col 29 and is valid
+Thread 6 checks col 30 and is valid
+Thread 6 checks col 31 and is valid
+Thread 6 checks col 32 and is valid
+Thread 6 checks col 33 and is valid
+Thread 6 checks col 34 and is valid
+Thread 6 checks col 35 and is valid
+Thread 6 checks col 36 and is valid
+Thread 7 checks grid 1 and is valid
+Thread 7 checks grid 2 and is valid
+Thread 7 checks grid 3 and is valid
+Thread 7 checks grid 4 and is valid
+Thread 7 checks grid 5 and is valid
+Thread 7 checks grid 6 and is valid
+Thread 7 checks grid 7 and is valid
+Thread 7 checks grid 8 and is valid
+Thread 7 checks grid 9 and is valid
+Thread 7 checks grid 10 and is valid
+Thread 7 checks grid 11 and is valid
+Thread 7 checks grid 12 and is valid
+Thread 7 checks grid 13 and is valid
+Thread 7 checks grid 14 and is valid
+Thread 7 checks grid 15 and is valid
+Thread 7 checks grid 16 and is valid
+Thread 7 checks grid 17 and is valid
+Thread 7 checks grid 18 and is valid
+Thread 8 checks grid 19 and is valid
+Thread 8 checks grid 20 and is valid
+Thread 8 checks grid 21 and is valid
+Thread 8 checks grid 22 and is valid
+Thread 8 checks grid 23 and is valid
+Thread 8 checks grid 24 and is valid
+Thread 8 checks grid 25 and is valid
+Thread 8 checks grid 26 and is valid
+Thread 8 checks grid 27 and is valid
+Thread 8 checks grid 28 and is valid
+Thread 8 checks grid 29 and is valid
+Thread 8 checks grid 30 and is valid
+Thread 8 checks grid 31 and is valid
+Thread 8 checks grid 32 and is valid
+Thread 8 checks grid 33 and is valid
+Thread 8 checks grid 34 and is valid
+Thread 8 checks grid 35 and is valid
+Thread 8 checks grid 36 and is valid
+Sudoku is valid
+Total time taken is 183.763
+mixed:
+Thread 0 checks row 1 and is valid
+Thread 1 checks row 2 and is valid
+Thread 2 checks row 3 and is valid
+Thread 3 checks row 4 and is valid
+Thread 4 checks row 5 and is valid
+Thread 5 checks row 6 and is valid
+Thread 6 checks row 7 and is valid
+Thread 7 checks row 8 and is valid
+Thread 0 checks row 9 and is valid
+Thread 1 checks row 10 and is valid
+Thread 2 checks row 11 and is valid
+Thread 3 checks row 12 and is valid
+Thread 4 checks row 13 and is valid
+Thread 5 checks row 14 and is valid
+Thread 6 checks row 15 and is valid
+Thread 7 checks row 16 and is valid
+Thread 0 checks row 17 and is valid
+Thread 1 checks row 18 and is valid
+Thread 2 checks row 19 and is valid
+Thread 3 checks row 20 and is valid
+Thread 4 checks row 21 and is valid
+Thread 5 checks row 22 and is valid
+Thread 6 checks row 23 and is valid
+Thread 7 checks row 24 and is valid
+Thread 0 checks row 25 and is valid
+Thread 1 checks row 26 and is valid
+Thread 2 checks row 27 and is valid
+Thread 3 checks row 28 and is valid
+Thread 4 checks row 29 and is valid
+Thread 5 checks row 30 and is valid
+Thread 6 checks row 31 and is valid
+Thread 7 checks row 32 and is valid
+Thread 0 checks row 33 and is valid
+Thread 1 checks row 34 and is valid
+Thread 2 checks row 35 and is valid
+Thread 3 checks row 36 and is valid
+Thread 0 checks col 1 and is valid
+Thread 1 checks col 2 and is valid
+Thread 2 checks col 3 and is valid
+Thread 3 checks col 4 and is valid
+Thread 4 checks col 5 and is valid
+Thread 5 checks col 6 and is valid
+Thread 6 checks col 7 and is valid
+Thread 7 checks col 8 and is valid
+Thread 0 checks col 9 and is valid
+Thread 1 checks col 10 and is valid
+Thread 2 checks col 11 and is valid
+Thread 3 checks col 12 and is valid
+Thread 4 checks col 13 and is valid
+Thread 5 checks col 14 and is valid
+Thread 6 checks col 15 and is valid
+Thread 7 checks col 16 and is valid
+Thread 0 checks col 17 and is valid
+Thread 1 checks col 18 and is valid
+Thread 2 checks col 19 and is valid
+Thread 3 checks col 20 and is valid
+Thread 4 checks col 21 and is valid
+Thread 5 checks col 22 and is valid
+Thread 6 checks col 23 and is valid
+Thread 7 checks col 24 and is valid
+Thread 0 checks col 25 and is valid
+Thread 1 checks col 26 and is valid
+Thread 2 checks col 27 and is valid
+Thread 3 checks col 28 and is valid
+Thread 4 checks col 29 and is valid
+Thread 5 checks col 30 and is valid
+Thread 6 checks col 31 and is valid
+Thread 7 checks col 32 and is valid
+Thread 0 checks col 33 and is valid
+Thread 1 checks col 34 and is valid
+Thread 2 checks col 35 and is valid
+Thread 3 checks col 36 and is valid
+Thread 0 checks grid 1 and is valid
+Thread 1 checks grid 2 and is valid
+Thread 2 checks grid 3 and is valid
+Thread 3 checks grid 4 and is valid
+Thread 4 checks grid 5 and is valid
+Thread 5 checks grid 6 and is valid
+Thread 6 checks grid 7 and is valid
+Thread 7 checks grid 8 and is valid
+Thread 0 checks grid 9 and is valid
+Thread 1 checks grid 10 and is valid
+Thread 2 checks grid 11 and is valid
+Thread 3 checks grid 12 and is valid
+Thread 4 checks grid 13 and is valid
+Thread 5 checks grid 14 and is valid
+Thread 6 checks grid 15 and is valid
+Thread 7 checks grid 16 and is valid
+Thread 0 checks grid 17 and is valid
+Thread 1 checks grid 18 and is valid
+Thread 2 checks grid 19 and is valid
+Thread 3 checks grid 20 and is valid
+Thread 4 checks grid 21 and is valid
+Thread 5 checks grid 22 and is valid
+Thread 6 checks grid 23 and is valid
+Thread 7 checks grid 24 and is valid
+Thread 0 checks grid 25 and is valid
+Thread 1 checks grid 26 and is valid
+Thread 2 checks grid 27 and is valid
+Thread 3 checks grid 28 and is valid
+Thread 4 checks grid 29 and is valid
+Thread 5 checks grid 30 and is valid
+Thread 6 checks grid 31 and is valid
+Thread 7 checks grid 32 and is valid
+Thread 0 checks grid 33 and is valid
+Thread 1 checks grid 34 and is valid
+Thread 2 checks grid 35 and is valid
+Thread 3 checks grid 36 and is valid
+Sudoku is valid
+Total time taken is 120.63

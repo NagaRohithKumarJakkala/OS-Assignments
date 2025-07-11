@@ -1,0 +1,333 @@
+sequential:
+row 1 is invalid
+row 2 is invalid
+row 3 is invalid
+row 4 is invalid
+row 5 is invalid
+row 6 is invalid
+row 7 is invalid
+row 8 is invalid
+row 9 is invalid
+row 10 is invalid
+row 11 is invalid
+row 12 is invalid
+row 13 is invalid
+row 14 is invalid
+row 15 is invalid
+row 16 is invalid
+row 17 is invalid
+row 18 is invalid
+row 19 is invalid
+row 20 is invalid
+row 21 is invalid
+row 22 is invalid
+row 23 is invalid
+row 24 is invalid
+row 25 is invalid
+row 26 is invalid
+row 27 is invalid
+row 28 is invalid
+row 29 is invalid
+row 30 is invalid
+row 31 is invalid
+row 32 is invalid
+row 33 is invalid
+row 34 is invalid
+row 35 is invalid
+row 36 is invalid
+col 1 is invalid
+col 2 is invalid
+col 3 is invalid
+col 4 is invalid
+col 5 is invalid
+col 6 is invalid
+col 7 is invalid
+col 8 is invalid
+col 9 is invalid
+col 10 is invalid
+col 11 is invalid
+col 12 is invalid
+col 13 is invalid
+col 14 is invalid
+col 15 is invalid
+col 16 is invalid
+col 17 is invalid
+col 18 is invalid
+col 19 is invalid
+col 20 is invalid
+col 21 is invalid
+col 22 is invalid
+col 23 is invalid
+col 24 is invalid
+col 25 is invalid
+col 26 is invalid
+col 27 is invalid
+col 28 is invalid
+col 29 is invalid
+col 30 is invalid
+col 31 is invalid
+col 32 is invalid
+col 33 is invalid
+col 34 is invalid
+col 35 is invalid
+col 36 is invalid
+grid 1 is invalid
+grid 2 is invalid
+grid 3 is invalid
+grid 4 is invalid
+grid 5 is invalid
+grid 6 is invalid
+grid 7 is invalid
+grid 8 is invalid
+grid 9 is invalid
+grid 10 is invalid
+grid 11 is invalid
+grid 12 is invalid
+grid 13 is invalid
+grid 14 is invalid
+grid 15 is invalid
+grid 16 is invalid
+grid 17 is invalid
+grid 18 is invalid
+grid 19 is invalid
+grid 20 is invalid
+grid 21 is invalid
+grid 22 is invalid
+grid 23 is invalid
+grid 24 is invalid
+grid 25 is invalid
+grid 26 is invalid
+grid 27 is invalid
+grid 28 is invalid
+grid 29 is invalid
+grid 30 is invalid
+grid 31 is invalid
+grid 32 is invalid
+grid 33 is invalid
+grid 34 is invalid
+grid 35 is invalid
+grid 36 is invalid
+Sudoku is invalid
+Total time taken is 26.852
+chunk:
+Thread 1 checks row 1 and is invalid
+Thread 1 checks row 2 and is invalid
+Thread 1 checks row 3 and is invalid
+Thread 1 checks row 4 and is invalid
+Thread 1 checks row 5 and is invalid
+Thread 1 checks row 6 and is invalid
+Thread 1 checks row 7 and is invalid
+Thread 1 checks row 8 and is invalid
+Thread 1 checks row 9 and is invalid
+Thread 1 checks row 10 and is invalid
+Thread 1 checks row 11 and is invalid
+Thread 1 checks row 12 and is invalid
+Thread 2 checks row 13 and is invalid
+Thread 2 checks row 14 and is invalid
+Thread 2 checks row 15 and is invalid
+Thread 2 checks row 16 and is invalid
+Thread 2 checks row 17 and is invalid
+Thread 2 checks row 18 and is invalid
+Thread 2 checks row 19 and is invalid
+Thread 2 checks row 20 and is invalid
+Thread 2 checks row 21 and is invalid
+Thread 2 checks row 22 and is invalid
+Thread 2 checks row 23 and is invalid
+Thread 2 checks row 24 and is invalid
+Thread 3 checks row 25 and is invalid
+Thread 3 checks row 26 and is invalid
+Thread 3 checks row 27 and is invalid
+Thread 3 checks row 28 and is invalid
+Thread 3 checks row 29 and is invalid
+Thread 3 checks row 30 and is invalid
+Thread 3 checks row 31 and is invalid
+Thread 3 checks row 32 and is invalid
+Thread 3 checks row 33 and is invalid
+Thread 3 checks row 34 and is invalid
+Thread 3 checks row 35 and is invalid
+Thread 3 checks row 36 and is invalid
+Thread 4 checks col 1 and is invalid
+Thread 4 checks col 2 and is invalid
+Thread 4 checks col 3 and is invalid
+Thread 4 checks col 4 and is invalid
+Thread 4 checks col 5 and is invalid
+Thread 4 checks col 6 and is invalid
+Thread 4 checks col 7 and is invalid
+Thread 4 checks col 8 and is invalid
+Thread 4 checks col 9 and is invalid
+Thread 4 checks col 10 and is invalid
+Thread 4 checks col 11 and is invalid
+Thread 4 checks col 12 and is invalid
+Thread 5 checks col 13 and is invalid
+Thread 5 checks col 14 and is invalid
+Thread 5 checks col 15 and is invalid
+Thread 5 checks col 16 and is invalid
+Thread 5 checks col 17 and is invalid
+Thread 5 checks col 18 and is invalid
+Thread 5 checks col 19 and is invalid
+Thread 5 checks col 20 and is invalid
+Thread 5 checks col 21 and is invalid
+Thread 5 checks col 22 and is invalid
+Thread 5 checks col 23 and is invalid
+Thread 5 checks col 24 and is invalid
+Thread 6 checks col 25 and is invalid
+Thread 6 checks col 26 and is invalid
+Thread 6 checks col 27 and is invalid
+Thread 6 checks col 28 and is invalid
+Thread 6 checks col 29 and is invalid
+Thread 6 checks col 30 and is invalid
+Thread 6 checks col 31 and is invalid
+Thread 6 checks col 32 and is invalid
+Thread 6 checks col 33 and is invalid
+Thread 6 checks col 34 and is invalid
+Thread 6 checks col 35 and is invalid
+Thread 6 checks col 36 and is invalid
+Thread 7 checks grid 1 and is invalid
+Thread 7 checks grid 2 and is invalid
+Thread 7 checks grid 3 and is invalid
+Thread 7 checks grid 4 and is invalid
+Thread 7 checks grid 5 and is invalid
+Thread 7 checks grid 6 and is invalid
+Thread 7 checks grid 7 and is invalid
+Thread 7 checks grid 8 and is invalid
+Thread 7 checks grid 9 and is invalid
+Thread 7 checks grid 10 and is invalid
+Thread 7 checks grid 11 and is invalid
+Thread 7 checks grid 12 and is invalid
+Thread 7 checks grid 13 and is invalid
+Thread 7 checks grid 14 and is invalid
+Thread 7 checks grid 15 and is invalid
+Thread 7 checks grid 16 and is invalid
+Thread 7 checks grid 17 and is invalid
+Thread 7 checks grid 18 and is invalid
+Thread 8 checks grid 19 and is invalid
+Thread 8 checks grid 20 and is invalid
+Thread 8 checks grid 21 and is invalid
+Thread 8 checks grid 22 and is invalid
+Thread 8 checks grid 23 and is invalid
+Thread 8 checks grid 24 and is invalid
+Thread 8 checks grid 25 and is invalid
+Thread 8 checks grid 26 and is invalid
+Thread 8 checks grid 27 and is invalid
+Thread 8 checks grid 28 and is invalid
+Thread 8 checks grid 29 and is invalid
+Thread 8 checks grid 30 and is invalid
+Thread 8 checks grid 31 and is invalid
+Thread 8 checks grid 32 and is invalid
+Thread 8 checks grid 33 and is invalid
+Thread 8 checks grid 34 and is invalid
+Thread 8 checks grid 35 and is invalid
+Thread 8 checks grid 36 and is invalid
+Sudoku is invalid
+Total time taken is 153.515
+mixed:
+Thread 0 checks row 1 and is invalid
+Thread 1 checks row 2 and is invalid
+Thread 2 checks row 3 and is invalid
+Thread 3 checks row 4 and is invalid
+Thread 4 checks row 5 and is invalid
+Thread 5 checks row 6 and is invalid
+Thread 6 checks row 7 and is invalid
+Thread 7 checks row 8 and is invalid
+Thread 0 checks row 9 and is invalid
+Thread 1 checks row 10 and is invalid
+Thread 2 checks row 11 and is invalid
+Thread 3 checks row 12 and is invalid
+Thread 4 checks row 13 and is invalid
+Thread 5 checks row 14 and is invalid
+Thread 6 checks row 15 and is invalid
+Thread 7 checks row 16 and is invalid
+Thread 0 checks row 17 and is invalid
+Thread 1 checks row 18 and is invalid
+Thread 2 checks row 19 and is invalid
+Thread 3 checks row 20 and is invalid
+Thread 4 checks row 21 and is invalid
+Thread 5 checks row 22 and is invalid
+Thread 6 checks row 23 and is invalid
+Thread 7 checks row 24 and is invalid
+Thread 0 checks row 25 and is invalid
+Thread 1 checks row 26 and is invalid
+Thread 2 checks row 27 and is invalid
+Thread 3 checks row 28 and is invalid
+Thread 4 checks row 29 and is invalid
+Thread 5 checks row 30 and is invalid
+Thread 6 checks row 31 and is invalid
+Thread 7 checks row 32 and is invalid
+Thread 0 checks row 33 and is invalid
+Thread 1 checks row 34 and is invalid
+Thread 2 checks row 35 and is invalid
+Thread 3 checks row 36 and is invalid
+Thread 0 checks col 1 and is invalid
+Thread 1 checks col 2 and is invalid
+Thread 2 checks col 3 and is invalid
+Thread 3 checks col 4 and is invalid
+Thread 4 checks col 5 and is invalid
+Thread 5 checks col 6 and is invalid
+Thread 6 checks col 7 and is invalid
+Thread 7 checks col 8 and is invalid
+Thread 0 checks col 9 and is invalid
+Thread 1 checks col 10 and is invalid
+Thread 2 checks col 11 and is invalid
+Thread 3 checks col 12 and is invalid
+Thread 4 checks col 13 and is invalid
+Thread 5 checks col 14 and is invalid
+Thread 6 checks col 15 and is invalid
+Thread 7 checks col 16 and is invalid
+Thread 0 checks col 17 and is invalid
+Thread 1 checks col 18 and is invalid
+Thread 2 checks col 19 and is invalid
+Thread 3 checks col 20 and is invalid
+Thread 4 checks col 21 and is invalid
+Thread 5 checks col 22 and is invalid
+Thread 6 checks col 23 and is invalid
+Thread 7 checks col 24 and is invalid
+Thread 0 checks col 25 and is invalid
+Thread 1 checks col 26 and is invalid
+Thread 2 checks col 27 and is invalid
+Thread 3 checks col 28 and is invalid
+Thread 4 checks col 29 and is invalid
+Thread 5 checks col 30 and is invalid
+Thread 6 checks col 31 and is invalid
+Thread 7 checks col 32 and is invalid
+Thread 0 checks col 33 and is invalid
+Thread 1 checks col 34 and is invalid
+Thread 2 checks col 35 and is invalid
+Thread 3 checks col 36 and is invalid
+Thread 0 checks grid 1 and is invalid
+Thread 1 checks grid 2 and is invalid
+Thread 2 checks grid 3 and is invalid
+Thread 3 checks grid 4 and is invalid
+Thread 4 checks grid 5 and is invalid
+Thread 5 checks grid 6 and is invalid
+Thread 6 checks grid 7 and is invalid
+Thread 7 checks grid 8 and is invalid
+Thread 0 checks grid 9 and is invalid
+Thread 1 checks grid 10 and is invalid
+Thread 2 checks grid 11 and is invalid
+Thread 3 checks grid 12 and is invalid
+Thread 4 checks grid 13 and is invalid
+Thread 5 checks grid 14 and is invalid
+Thread 6 checks grid 15 and is invalid
+Thread 7 checks grid 16 and is invalid
+Thread 0 checks grid 17 and is invalid
+Thread 1 checks grid 18 and is invalid
+Thread 2 checks grid 19 and is invalid
+Thread 3 checks grid 20 and is invalid
+Thread 4 checks grid 21 and is invalid
+Thread 5 checks grid 22 and is invalid
+Thread 6 checks grid 23 and is invalid
+Thread 7 checks grid 24 and is invalid
+Thread 0 checks grid 25 and is invalid
+Thread 1 checks grid 26 and is invalid
+Thread 2 checks grid 27 and is invalid
+Thread 3 checks grid 28 and is invalid
+Thread 4 checks grid 29 and is invalid
+Thread 5 checks grid 30 and is invalid
+Thread 6 checks grid 31 and is invalid
+Thread 7 checks grid 32 and is invalid
+Thread 0 checks grid 33 and is invalid
+Thread 1 checks grid 34 and is invalid
+Thread 2 checks grid 35 and is invalid
+Thread 3 checks grid 36 and is invalid
+Sudoku is invalid
+Total time taken is 117.996
